@@ -43,5 +43,5 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master # https://github.com/ad-m/github-push-action
         with:
-          github_token: ${{ INPUT_MY_TOKEN }}
+          github_token: ${{ secrets.INPUT_MY_TOKEN }}
           branch: main # 注意修改为你的分支, 例如: master
