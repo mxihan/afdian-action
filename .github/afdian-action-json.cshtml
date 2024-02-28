@@ -1,76 +1,53 @@
-// 在模板文件中引入所需的命名空间
-@using System.Collections.Generic
-
-// 定义 viewModel 变量
 @{
-    var viewModel = new ViewModel(); // 请根据实际情况初始化 ViewModel
-}
+    var viewModel = (Afdian.Action.ViewModels.AfdianViewModel)@Model;
+    string meUserId = "e6bacc3e730d11ea857252540025c377";
+    // 排除自己
+    viewModel.Sponsor.data.list = viewModel.Sponsor.data.list.Where(m => m.user.user_id != meUserId).ToList();
 
-// JSON 格式的模板
-{
-  "viewModel": {
-    "Sponsor": {
-      "data": {
-        "list": [
-          @for (int i = 0; i < viewModel.Sponsor.data.list.Count(); i++)
-          {
-              var sponsorItem = viewModel.Sponsor.data.list[i];
-              {
-                "user_id": "@sponsorItem.user.user_id",
-                "avatar": "@sponsorItem.user.avatar?imageView2/1/w/120/h/120",
-                "name": "@sponsorItem.user.name",
-                "totalMoney": @(CalculateTotalMoney(viewModel.Order.data.list, sponsorItem.user.user_id)),
-                "orderNum": @(CalculateOrderNum(viewModel.Order.data.list, sponsorItem.user.user_id)),
-                "remarks": "@(GetLatestRemark(viewModel.Order.data.list, sponsorItem.user.user_id))"
-              }
-          }
-        ]
-      }
-    }
-  }
-}
+    // 创建一个新的列表来存储赞助者信息
+    var sponsorsList = new List<object>();
 
-@functions {
-    double CalculateTotalMoney(List<OrderItem> orderList, string userId)
+    foreach (var sponsorItem in viewModel.Sponsor.data.list)
     {
+        // 初始化总赞助金额和赞助次数
         double totalMoney = 0;
-        foreach (var orderItem in orderList)
+        int orderNum = 0;
+        string remarks = "";
+
+        foreach (var orderItem in viewModel.Order.data.list)
         {
-            if (orderItem.user_id == userId)
+            if (orderItem.user_id == sponsorItem.user.user_id)
             {
                 totalMoney += Convert.ToDouble(orderItem.total_amount);
-            }
-        }
-        return totalMoney;
-    }
-
-    int CalculateOrderNum(List<OrderItem> orderList, string userId)
-    {
-        int orderNum = 0;
-        foreach (var orderItem in orderList)
-        {
-            if (orderItem.user_id == userId)
-            {
                 orderNum++;
+                if (!string.IsNullOrEmpty(orderItem.remark))
+                {
+                    // 只要最新留言
+                    remarks = orderItem.remark;
+                }
             }
         }
-        return orderNum;
+
+        if (remarks.Length > 10)
+        {
+            remarks = remarks.Substring(0, 10) + "...";
+        }
+
+        // 将赞助者信息添加到列表中
+        sponsorsList.Add(new
+        {
+            UserId = sponsorItem.user.user_id,
+            AvatarUrl = sponsorItem.user.avatar + "?imageView2/1/w/120/h/120",
+            Name = sponsorItem.user.name,
+            SponsorshipCount = orderNum,
+            TotalMoney = totalMoney,
+            Remarks = remarks
+        });
     }
 
-    string GetLatestRemark(List<OrderItem> orderList, string userId)
-    {
-        string latestRemark = "";
-        foreach (var orderItem in orderList)
-        {
-            if (orderItem.user_id == userId && !string.IsNullOrEmpty(orderItem.remark))
-            {
-                latestRemark = orderItem.remark;
-            }
-        }
-        if (latestRemark.Length > 10)
-        {
-            latestRemark = latestRemark.Substring(0, 10) + "...";
-        }
-        return latestRemark;
-    }
+    // 将列表转换为JSON字符串
+    var json = Newtonsoft.Json.JsonConvert.SerializeObject(sponsorsList, Newtonsoft.Json.Formatting.Indented);
 }
+
+// 输出JSON
+@Html.Raw(json)
