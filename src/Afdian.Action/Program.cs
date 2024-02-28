@@ -138,10 +138,10 @@ namespace Afdian.Action
                 return;
             }
 
-            // 4. 找到 目标文件 -> 根据开始结束符号 -> 找到修改插入位置 -> 修改文件内容
             try
             {
                 bool existTargetFile = File.Exists(targetFilePath);
+                Console.WriteAllText(runResult);
                 if (!existTargetFile)
                 {
                     Utils.LogUtil.Error("不存在目标文件");
