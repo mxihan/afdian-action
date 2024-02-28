@@ -1,15 +1,14 @@
 @{
-    var viewModel = (Afdian.Action.ViewModels.AfdianViewModel)@Model;
+    Layout = null; // 确保不使用任何布局文件
+    var viewModel = (Afdian.Action.ViewModels.AfdianViewModel)Model;
     string meUserId = "e6bacc3e730d11ea857252540025c377";
     // 排除自己
     viewModel.Sponsor.data.list = viewModel.Sponsor.data.list.Where(m => m.user.user_id != meUserId).ToList();
 
-    // 创建一个新的列表来存储赞助者信息
     var sponsorsList = new List<object>();
 
     foreach (var sponsorItem in viewModel.Sponsor.data.list)
     {
-        // 初始化总赞助金额和赞助次数
         double totalMoney = 0;
         int orderNum = 0;
         string remarks = "";
@@ -33,7 +32,6 @@
             remarks = remarks.Substring(0, 10) + "...";
         }
 
-        // 将赞助者信息添加到列表中
         sponsorsList.Add(new
         {
             UserId = sponsorItem.user.user_id,
@@ -45,9 +43,7 @@
         });
     }
 
-    // 将列表转换为JSON字符串
     var json = Newtonsoft.Json.JsonConvert.SerializeObject(sponsorsList, Newtonsoft.Json.Formatting.Indented);
 }
 
-// 输出JSON
 @Html.Raw(json)
