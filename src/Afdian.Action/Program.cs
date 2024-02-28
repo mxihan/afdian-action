@@ -132,6 +132,9 @@ namespace Afdian.Action
                 Utils.LogUtil.Exception(ex);
                 return;
             }
+
+            Console.WriteLine($"Result: {runResult}"})
+
             if (string.IsNullOrEmpty(runResult))
             {
                 Utils.LogUtil.Error("运行结果为 空");
@@ -141,7 +144,6 @@ namespace Afdian.Action
             try
             {
                 bool existTargetFile = File.Exists(targetFilePath);
-                Console.WriteAllText(runResult);
                 if (!existTargetFile)
                 {
                     Utils.LogUtil.Error("不存在目标文件");
