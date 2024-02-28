@@ -149,20 +149,10 @@ namespace Afdian.Action
                     Utils.LogUtil.Error("不存在目标文件");
                     return;
                 }
-                string targetFileContent = Utils.FileUtil.ReadStringAsync(targetFilePath).Result;
-                int startFlagIndex = targetFileContent.IndexOf(startFlag);
-                int endFlagIndex = targetFileContent.IndexOf(endFlag);
-                if (startFlagIndex != -1 && endFlagIndex != -1 && endFlagIndex > startFlagIndex)
-                {
-                    string beforeStr = targetFileContent.Substring(0, startFlagIndex);
-                    string afterSstr = targetFileContent.Substring(endFlagIndex + endFlag.Length);
-                    string centerStr = startFlag + "\n" + runResult + "\n" + endFlag;
-                    targetFileContent = beforeStr + centerStr + afterSstr;
 
-                    File.WriteAllText(targetFilePath, targetFileContent, System.Text.Encoding.UTF8);
+                File.WriteAllText(targetFilePath, runResult, System.Text.Encoding.UTF8);
 
-                    Console.WriteLine("更新完成");
-                }
+                Console.WriteLine("更新完成");
             }
             catch (Exception ex)
             {

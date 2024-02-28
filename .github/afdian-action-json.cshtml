@@ -1,0 +1,61 @@
+{
+    "SponsorList": [
+        @for (int i = 0; i < viewModel.Sponsor.data.list.Count(); i++)
+        {
+            var sponsorItem = viewModel.Sponsor.data.list[i];
+            {
+                "user_id": "@sponsorItem.user.user_id",
+                "avatar": "@sponsorItem.user.avatar?imageView2/1/w/120/h/120",
+                "name": "@sponsorItem.user.name",
+                "totalMoney": @(CalculateTotalMoney(viewModel.Order.data.list, sponsorItem.user.user_id)),
+                "orderNum": @(CalculateOrderNum(viewModel.Order.data.list, sponsorItem.user.user_id)),
+                "remarks": "@(GetLatestRemark(viewModel.Order.data.list, sponsorItem.user.user_id))"
+            }
+        }
+    ]
+}
+
+@functions {
+    double CalculateTotalMoney(List<OrderItem> orderList, string userId)
+    {
+        double totalMoney = 0;
+        foreach (var orderItem in orderList)
+        {
+            if (orderItem.user_id == userId)
+            {
+                totalMoney += Convert.ToDouble(orderItem.total_amount);
+            }
+        }
+        return totalMoney;
+    }
+
+    int CalculateOrderNum(List<OrderItem> orderList, string userId)
+    {
+        int orderNum = 0;
+        foreach (var orderItem in orderList)
+        {
+            if (orderItem.user_id == userId)
+            {
+                orderNum++;
+            }
+        }
+        return orderNum;
+    }
+
+    string GetLatestRemark(List<OrderItem> orderList, string userId)
+    {
+        string latestRemark = "";
+        foreach (var orderItem in orderList)
+        {
+            if (orderItem.user_id == userId && !string.IsNullOrEmpty(orderItem.remark))
+            {
+                latestRemark = orderItem.remark;
+            }
+        }
+        if (latestRemark.Length > 10)
+        {
+            latestRemark = latestRemark.Substring(0, 10) + "...";
+        }
+        return latestRemark;
+    }
+}
