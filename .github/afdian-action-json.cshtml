@@ -1,5 +1,4 @@
 @{
-    Layout = null; // 确保不使用任何布局文件
     var viewModel = (Afdian.Action.ViewModels.AfdianViewModel)Model;
     string meUserId = "e6bacc3e730d11ea857252540025c377";
     // 排除自己
@@ -43,7 +42,7 @@
         });
     }
 
-    var json = Newtonsoft.Json.JsonConvert.SerializeObject(sponsorsList, Newtonsoft.Json.Formatting.Indented);
+    var json = JsonConvert.SerializeObject(sponsorsList, Newtonsoft.Json.Formatting.Indented);
 }
 
-@Html.Raw(json)
+@json
