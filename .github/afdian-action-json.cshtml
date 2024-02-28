@@ -1,18 +1,33 @@
+// 在模板文件中引入所需的命名空间
+@using System.Collections.Generic
+
+// 定义 viewModel 变量
+@{
+    var viewModel = new ViewModel(); // 请根据实际情况初始化 ViewModel
+}
+
+// JSON 格式的模板
 {
-    "SponsorList": [
-        @for (int i = 0; i < viewModel.Sponsor.data.list.Count(); i++)
-        {
-            var sponsorItem = viewModel.Sponsor.data.list[i];
-            {
+  "viewModel": {
+    "Sponsor": {
+      "data": {
+        "list": [
+          @for (int i = 0; i < viewModel.Sponsor.data.list.Count(); i++)
+          {
+              var sponsorItem = viewModel.Sponsor.data.list[i];
+              {
                 "user_id": "@sponsorItem.user.user_id",
                 "avatar": "@sponsorItem.user.avatar?imageView2/1/w/120/h/120",
                 "name": "@sponsorItem.user.name",
                 "totalMoney": @(CalculateTotalMoney(viewModel.Order.data.list, sponsorItem.user.user_id)),
                 "orderNum": @(CalculateOrderNum(viewModel.Order.data.list, sponsorItem.user.user_id)),
                 "remarks": "@(GetLatestRemark(viewModel.Order.data.list, sponsorItem.user.user_id))"
-            }
-        }
-    ]
+              }
+          }
+        ]
+      }
+    }
+  }
 }
 
 @functions {
