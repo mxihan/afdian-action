@@ -28,8 +28,6 @@ namespace Afdian.Action
             string afdianUserId = Utils.GitHubActionsUtil.GetEnv("afdian_userId");
             string afdianToken = Utils.GitHubActionsUtil.GetEnv("afdian_token");
             string targetFilePath = Utils.GitHubActionsUtil.GetEnv("target_filePath");
-            string startFlag = Utils.GitHubActionsUtil.GetEnv("start_flag") ?? "<!-- AFDIAN-ACTION:START -->";
-            string endFlag = Utils.GitHubActionsUtil.GetEnv("end_flag") ?? "<!-- AFDIAN-ACTION:END -->";
             string usingsStr = Utils.GitHubActionsUtil.GetEnv("usings") ?? "";
             string assemblyReferencesStr = Utils.GitHubActionsUtil.GetEnv("assemblyReferences") ?? "";
 

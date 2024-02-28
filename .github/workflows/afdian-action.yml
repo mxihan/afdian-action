@@ -27,7 +27,7 @@ jobs:
           # 默认为: README.md
           target_filePath: "Sponsors.json"
           # 可省, 高级选项: RazorEngine Complie, 在 cshtml 中需要 using 的 namespace, 多个用 ; 隔开
-          usings: "System;Newtonsoft.Json"
+          usings: ""
           # 可省, 高级选项: RazorEngine Complie, 在 cshtml 中需要添加的 系统引用, 多个用 ; 隔开
           # 例如: assemblyReferences: "System.Collections, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
           assemblyReferences: "Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed"
