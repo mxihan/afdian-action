@@ -1,3 +1,5 @@
+@using System
+@using Newtonsoft.Json
 @{
     var viewModel = (Afdian.Action.ViewModels.AfdianViewModel)Model;
     string meUserId = "e6bacc3e730d11ea857252540025c377";
@@ -44,5 +46,4 @@
 
     var json = Newtonsoft.Json.JsonConvert.SerializeObject(sponsorsList, Newtonsoft.Json.Formatting.Indented);
 }
-
 @json
