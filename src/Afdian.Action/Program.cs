@@ -133,8 +133,6 @@ namespace Afdian.Action
                 return;
             }
 
-            Console.WriteLine($"Result: {runResult}"})
-
             if (string.IsNullOrEmpty(runResult))
             {
                 Utils.LogUtil.Error("运行结果为 空");
