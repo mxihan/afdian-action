@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "79e35fb8eeb311eba94652540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/79e35fb8eeb311eba94652540025c377/avatar/13ccbb2f75745e2fb8bc776c6bd5eed9_w600_h600_s77.jpg?imageView2/1/w/120/h/120",
+      "Name": "红雷大大",
+      "SponsorshipCount": 1,
+      "TotalMoney": 5.0,
+      "Remarks": "",
+      "CurrentPlan": "迷你月卡"
+    },
+    {
       "UserId": "9c41114054bb11ecb64652540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-blue.png?imageView2/1/w/120/h/120",
       "Name": "TCPL",
@@ -109,5 +118,5 @@
       "CurrentPlan": "大月卡"
     }
   ],
-  "UpdateTime": "2024-02-29 11:06:38"
+  "UpdateTime": "2024-02-29 13:07:20"
 }
