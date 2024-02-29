@@ -94,10 +94,10 @@
       "UserId": "bce9e94669db11ec9ffe52540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/bce9e94669db11ec9ffe52540025c377/avatar/fce792492f88552570ae3f8a928b5dfa_w500_h500_s3.png?imageView2/1/w/120/h/120",
       "Name": "STE Network - STE87",
-      "SponsorshipCount": 1,
-      "TotalMoney": 20.0,
+      "SponsorshipCount": 2,
+      "TotalMoney": 80.0,
       "Remarks": "",
-      "CurrentPlan": ""
+      "CurrentPlan": "迷你月卡"
     },
     {
       "UserId": "36d17242ce9f11ecb76a52540025c377",
@@ -109,5 +109,5 @@
       "CurrentPlan": "大月卡"
     }
   ],
-  "UpdateTime": "2024-02-29 09:52:48"
+  "UpdateTime": "2024-02-29 10:10:03"
 }
