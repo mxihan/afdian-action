@@ -6,7 +6,8 @@
       "Name": "TCPL",
       "SponsorshipCount": 1,
       "TotalMoney": 10.0,
-      "Remarks": ""
+      "Remarks": "",
+      "CurrentPlan": "小月卡"
     },
     {
       "UserId": "857a9578cfa011ee9ab952540025c377",
@@ -14,7 +15,8 @@
       "Name": "一方之斌",
       "SponsorshipCount": 1,
       "TotalMoney": 30.0,
-      "Remarks": "捎给 TA 的话"
+      "Remarks": "捎给 TA 的话",
+      "CurrentPlan": "至尊月卡"
     },
     {
       "UserId": "56c28c30177311eea88952540025c377",
@@ -22,7 +24,8 @@
       "Name": "Cuprum",
       "SponsorshipCount": 1,
       "TotalMoney": 5.0,
-      "Remarks": ""
+      "Remarks": "",
+      "CurrentPlan": "迷你月卡"
     },
     {
       "UserId": "8c1a0d36dbb711eaa51352540025c377",
@@ -30,7 +33,8 @@
       "Name": "Sanhei",
       "SponsorshipCount": 1,
       "TotalMoney": 60.0,
-      "Remarks": ""
+      "Remarks": "",
+      "CurrentPlan": "小月卡"
     },
     {
       "UserId": "8a459ef2b44f11ee933952540025c377",
@@ -38,7 +42,8 @@
       "Name": "duxian",
       "SponsorshipCount": 2,
       "TotalMoney": 40.0,
-      "Remarks": "什么时候hime能整..."
+      "Remarks": "什么时候hime能整...",
+      "CurrentPlan": "大月卡"
     },
     {
       "UserId": "d5237342c27711ed894352540025c377",
@@ -46,7 +51,8 @@
       "Name": "扬书",
       "SponsorshipCount": 1,
       "TotalMoney": 20.0,
-      "Remarks": ""
+      "Remarks": "",
+      "CurrentPlan": ""
     },
     {
       "UserId": "3dc2a5586a9611eb958b52540025c377",
@@ -54,7 +60,8 @@
       "Name": "重桜の容容",
       "SponsorshipCount": 1,
       "TotalMoney": 10.0,
-      "Remarks": "我不是wmc，不要踢..."
+      "Remarks": "我不是wmc，不要踢...",
+      "CurrentPlan": ""
     },
     {
       "UserId": "3fe1854eb44d11ee8f9f52540025c377",
@@ -62,7 +69,8 @@
       "Name": "zongzidesu",
       "SponsorshipCount": 1,
       "TotalMoney": 50.0,
-      "Remarks": "兄弟，我爱你"
+      "Remarks": "兄弟，我爱你",
+      "CurrentPlan": ""
     },
     {
       "UserId": "1604865eaef811ee82bf5254001e7c00",
@@ -70,7 +78,8 @@
       "Name": "。",
       "SponsorshipCount": 1,
       "TotalMoney": 39.0,
-      "Remarks": ""
+      "Remarks": "",
+      "CurrentPlan": ""
     },
     {
       "UserId": "c84ff482d50711ec923852540025c377",
@@ -78,7 +87,8 @@
       "Name": "吉吉",
       "SponsorshipCount": 1,
       "TotalMoney": 60.0,
-      "Remarks": "祝rin服越来越好捏"
+      "Remarks": "祝rin服越来越好捏",
+      "CurrentPlan": "小月卡"
     },
     {
       "UserId": "bce9e94669db11ec9ffe52540025c377",
@@ -86,7 +96,8 @@
       "Name": "STE Network - STE87",
       "SponsorshipCount": 1,
       "TotalMoney": 20.0,
-      "Remarks": ""
+      "Remarks": "",
+      "CurrentPlan": ""
     },
     {
       "UserId": "36d17242ce9f11ecb76a52540025c377",
@@ -94,8 +105,9 @@
       "Name": "jy",
       "SponsorshipCount": 3,
       "TotalMoney": 40.0,
-      "Remarks": ""
+      "Remarks": "",
+      "CurrentPlan": "大月卡"
     }
   ],
-  "UpdateTime": "24-02-29 09:47:49"
+  "UpdateTime": "2024-02-29 09:52:48"
 }
