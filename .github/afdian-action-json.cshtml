@@ -40,13 +40,14 @@
             Name = sponsorItem.user.name,
             SponsorshipCount = orderNum,
             TotalMoney = totalMoney,
-            Remarks = remarks
+            Remarks = remarks,
+            CurrentPlan = sponsorItem.current_plan.name;
         });
     }
 
     var Result = new {
         SponsorsList = sponsorsList,
-        UpdateTime = DateTimeOffset.UtcNow.AddHours(8).ToString("yy-MM-dd HH:mm:ss")
+        UpdateTime = DateTimeOffset.UtcNow.AddHours(8).ToString("yyyy-MM-dd HH:mm:ss")
     };
 
     var json = Newtonsoft.Json.JsonConvert.SerializeObject(Result, Newtonsoft.Json.Formatting.Indented);
