@@ -85,10 +85,10 @@
       "UserId": "1604865eaef811ee82bf5254001e7c00",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/user_upload_osl/f9e61ac96c5dbfa8b4684ea4eda88529_w132_h132_s5.jpeg?imageView2/1/w/120/h/120",
       "Name": "。",
-      "SponsorshipCount": 1,
-      "TotalMoney": 39.0,
+      "SponsorshipCount": 2,
+      "TotalMoney": 54.0,
       "Remarks": "",
-      "CurrentPlan": ""
+      "CurrentPlan": "自选方案"
     },
     {
       "UserId": "c84ff482d50711ec923852540025c377",
@@ -118,5 +118,5 @@
       "CurrentPlan": "大月卡"
     }
   ],
-  "UpdateTime": "2024-03-02 15:06:09"
+  "UpdateTime": "2024-03-02 16:06:26"
 }
