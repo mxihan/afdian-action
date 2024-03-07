@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "60ea37ced54511ec86dc52540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/60ea37ced54511ec86dc52540025c377/avatar/03a83d2fa20d57a5115d70b7e31cf3df_w640_h360_s233.png?imageView2/1/w/120/h/120",
+      "Name": "XiliL",
+      "SponsorshipCount": 1,
+      "TotalMoney": 10.0,
+      "Remarks": "当每个月交网费了，希...",
+      "CurrentPlan": "小月卡"
+    },
+    {
       "UserId": "79e35fb8eeb311eba94652540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/79e35fb8eeb311eba94652540025c377/avatar/13ccbb2f75745e2fb8bc776c6bd5eed9_w600_h600_s77.jpg?imageView2/1/w/120/h/120",
       "Name": "红雷大大",
@@ -118,5 +127,5 @@
       "CurrentPlan": "大月卡"
     }
   ],
-  "UpdateTime": "2024-03-07 11:06:09"
+  "UpdateTime": "2024-03-07 12:07:41"
 }
