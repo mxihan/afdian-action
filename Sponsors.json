@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "5eb7bc402e1511e9b8f452540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/5eb7bc402e1511e9b8f452540025c377/avatar/cf5ff3d0f95b3e28a9f86c29a52d9f85_w960_h960_s184.jpeg?imageView2/1/w/120/h/120",
+      "Name": "Nick29",
+      "SponsorshipCount": 1,
+      "TotalMoney": 50.0,
+      "Remarks": "",
+      "CurrentPlan": "自选方案"
+    },
+    {
       "UserId": "e73b9208fcf311eb8dd552540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/w/120/h/120",
       "Name": "shenchache",
@@ -136,5 +145,5 @@
       "CurrentPlan": "大月卡"
     }
   ],
-  "UpdateTime": "2024-03-07 20:08:54"
+  "UpdateTime": "2024-03-07 21:06:11"
 }
