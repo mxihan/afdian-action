@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "23a1db6aecc811ed953d5254001e7c00",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120",
+      "Name": "爱发电用户_23a1d",
+      "SponsorshipCount": 1,
+      "TotalMoney": 11.45,
+      "Remarks": "aime卡被人盗绑能...",
+      "CurrentPlan": "自选方案"
+    },
+    {
       "UserId": "5eb7bc402e1511e9b8f452540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/5eb7bc402e1511e9b8f452540025c377/avatar/cf5ff3d0f95b3e28a9f86c29a52d9f85_w960_h960_s184.jpeg?imageView2/1/w/120/h/120",
       "Name": "Nick29",
@@ -145,5 +154,5 @@
       "CurrentPlan": "大月卡"
     }
   ],
-  "UpdateTime": "2024-03-08 10:11:12"
+  "UpdateTime": "2024-03-08 11:06:27"
 }
