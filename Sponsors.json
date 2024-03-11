@@ -13,10 +13,10 @@
       "UserId": "23a1db6aecc811ed953d5254001e7c00",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120",
       "Name": "爱发电用户_23a1d",
-      "SponsorshipCount": 1,
-      "TotalMoney": 11.45,
+      "SponsorshipCount": 2,
+      "TotalMoney": 41.45,
       "Remarks": "aime卡被人盗绑能...",
-      "CurrentPlan": "自选方案"
+      "CurrentPlan": "至尊月卡"
     },
     {
       "UserId": "5eb7bc402e1511e9b8f452540025c377",
@@ -163,5 +163,5 @@
       "CurrentPlan": "大月卡"
     }
   ],
-  "UpdateTime": "2024-03-11 18:07:11"
+  "UpdateTime": "2024-03-11 19:06:21"
 }
