@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "5581b3a2b8ad11ed8c4552540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/5581b3a2b8ad11ed8c4552540025c377/avatar/b2df9e62da14752fb8d70d2a3112c315_w650_h650_s133.jpeg?imageView2/1/w/120/h/120",
+      "Name": "Eternal973",
+      "SponsorshipCount": 1,
+      "TotalMoney": 30.0,
+      "Remarks": "？挺好的，真是开开又...",
+      "CurrentPlan": "至尊月卡"
+    },
+    {
       "UserId": "23a1db6aecc811ed953d5254001e7c00",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120",
       "Name": "爱发电用户_23a1d",
@@ -154,5 +163,5 @@
       "CurrentPlan": "大月卡"
     }
   ],
-  "UpdateTime": "2024-03-11 16:07:48"
+  "UpdateTime": "2024-03-11 17:06:53"
 }
