@@ -67,8 +67,8 @@
       "UserId": "857a9578cfa011ee9ab952540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/user_upload_osl/5226b70f5df98a85bbe562c9b4a9fb41_w132_h132_s6.jpeg?imageView2/1/w/120/h/120",
       "Name": "一方之斌",
-      "SponsorshipCount": 1,
-      "TotalMoney": 30.0,
+      "SponsorshipCount": 2,
+      "TotalMoney": 60.0,
       "Remarks": "捎给 TA 的话",
       "CurrentPlan": "至尊月卡"
     },
@@ -163,5 +163,5 @@
       "CurrentPlan": "大月卡"
     }
   ],
-  "UpdateTime": "2024-03-20 19:06:09"
+  "UpdateTime": "2024-03-20 20:08:47"
 }
