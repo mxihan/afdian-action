@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "3b4ab9cae7a511ee95e452540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-orange.png?imageView2/1/w/120/h/120",
+      "Name": "嘉然今天吃辣条",
+      "SponsorshipCount": 1,
+      "TotalMoney": 20.0,
+      "Remarks": "",
+      "CurrentPlan": "大月卡"
+    },
+    {
       "UserId": "5581b3a2b8ad11ed8c4552540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/5581b3a2b8ad11ed8c4552540025c377/avatar/b2df9e62da14752fb8d70d2a3112c315_w650_h650_s133.jpeg?imageView2/1/w/120/h/120",
       "Name": "Eternal973",
@@ -163,5 +172,5 @@
       "CurrentPlan": "大月卡"
     }
   ],
-  "UpdateTime": "2024-03-22 01:06:25"
+  "UpdateTime": "2024-03-22 02:07:02"
 }
