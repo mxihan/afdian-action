@@ -85,10 +85,10 @@
       "UserId": "56c28c30177311eea88952540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/56c28c30177311eea88952540025c377/avatar/19665f8debfce4d7f1bd497b53e87910_w537_h541_s154.jpeg?imageView2/1/w/120/h/120",
       "Name": "Cuprum",
-      "SponsorshipCount": 2,
-      "TotalMoney": 10.0,
+      "SponsorshipCount": 3,
+      "TotalMoney": 20.0,
       "Remarks": "",
-      "CurrentPlan": ""
+      "CurrentPlan": "小月卡"
     },
     {
       "UserId": "8c1a0d36dbb711eaa51352540025c377",
@@ -172,5 +172,5 @@
       "CurrentPlan": "大月卡"
     }
   ],
-  "UpdateTime": "2024-03-22 10:11:14"
+  "UpdateTime": "2024-03-22 13:06:42"
 }
