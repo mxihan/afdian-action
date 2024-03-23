@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "717eec90c96e11eaba3452540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-yellow.png?imageView2/1/w/120/h/120",
+      "Name": "Shiroha",
+      "SponsorshipCount": 1,
+      "TotalMoney": 20.0,
+      "Remarks": "",
+      "CurrentPlan": "大月卡"
+    },
+    {
       "UserId": "3b4ab9cae7a511ee95e452540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-orange.png?imageView2/1/w/120/h/120",
       "Name": "嘉然今天吃辣条",
@@ -172,5 +181,5 @@
       "CurrentPlan": "大月卡"
     }
   ],
-  "UpdateTime": "2024-03-23 17:06:32"
+  "UpdateTime": "2024-03-23 18:07:07"
 }
