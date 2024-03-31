@@ -29,10 +29,10 @@
     },
     {
       "UserId": "23a1db6aecc811ed953d5254001e7c00",
-      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120",
-      "Name": "爱发电用户_23a1d",
-      "SponsorshipCount": 2,
-      "TotalMoney": 41.45,
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/23a1db6aecc811ed953d5254001e7c00/avatar/4662a694a6656b15fd4653a98e7bcf5a_w1080_h2400_s613.jpeg?imageView2/1/w/120/h/120",
+      "Name": "LIFEhope",
+      "SponsorshipCount": 3,
+      "TotalMoney": 71.45,
       "Remarks": "aime卡被人盗绑能...",
       "CurrentPlan": "至尊月卡"
     },
@@ -181,5 +181,5 @@
       "CurrentPlan": "大月卡"
     }
   ],
-  "UpdateTime": "2024-03-31 20:07:50"
+  "UpdateTime": "2024-03-31 21:07:17"
 }
