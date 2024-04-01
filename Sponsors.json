@@ -148,8 +148,8 @@
       "UserId": "1604865eaef811ee82bf5254001e7c00",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/user_upload_osl/f9e61ac96c5dbfa8b4684ea4eda88529_w132_h132_s5.jpeg?imageView2/1/w/120/h/120",
       "Name": "。",
-      "SponsorshipCount": 2,
-      "TotalMoney": 54.0,
+      "SponsorshipCount": 3,
+      "TotalMoney": 74.0,
       "Remarks": "",
       "CurrentPlan": "自选方案"
     },
@@ -181,5 +181,5 @@
       "CurrentPlan": "大月卡"
     }
   ],
-  "UpdateTime": "2024-04-01 10:17:43"
+  "UpdateTime": "2024-04-01 12:07:01"
 }
