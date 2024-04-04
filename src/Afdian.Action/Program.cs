@@ -50,8 +50,8 @@ namespace Afdian.Action
 
                 return;
             }
-            var orderModel = afdianClient.QueryOrderModel();
-            var sponsorModel = afdianClient.QuerySponsorModel();
+            var orderModel = queryOrder(afdianClient);
+            var sponsorModel = queryOrder(afdianClient);
 
             // 2. 组成 ViewModel
             var viewModel = new ViewModels.AfdianViewModel()
@@ -158,6 +158,54 @@ namespace Afdian.Action
                 Utils.LogUtil.Exception(ex);
             }
 
+        }
+
+        private QueryOrderResponseModel queryOrder(AfdianClient afdianClient)
+        {
+            var page = 1;
+            QueryOrderResponseModel? order = null;
+            while (true)
+            {
+                var temp = afdianClient.QueryOrderModel(page);
+                if (page == 1)
+                {
+                    order = temp;
+                }
+                else
+                {
+                    order?.data.list.AddRange(temp.data.list);
+                }
+                if (temp.data.list.Count == 0)
+                {
+                    break;
+                }
+                page++;
+            }
+            return order??new QueryOrderResponseModel();
+        }
+        
+        private QuerySponsorResponseModel querySponsor(AfdianClient afdianClient)
+        {
+            var page = 1;
+            QuerySponsorResponseModel? order = null;
+            while (true)
+            {
+                var temp = afdianClient.QuerySponsorModel(page);
+                if (page == 1)
+                {
+                    order = temp;
+                }
+                else
+                {
+                    order?.data.list.AddRange(temp.data.list);
+                }
+                if (temp.data.list.Count == 0)
+                {
+                    break;
+                }
+                page++;
+            }
+            return order??new QuerySponsorResponseModel();
         }
     }
 }
