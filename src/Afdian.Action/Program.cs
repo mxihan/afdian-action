@@ -161,7 +161,7 @@ namespace Afdian.Action
 
         }
 
-        private QueryOrderResponseModel queryOrder(AfdianClient afdianClient)
+        private static QueryOrderResponseModel queryOrder(AfdianClient afdianClient)
         {
             var page = 1;
             QueryOrderResponseModel? order = null;
@@ -185,7 +185,7 @@ namespace Afdian.Action
             return order??new QueryOrderResponseModel();
         }
         
-        private QuerySponsorResponseModel querySponsor(AfdianClient afdianClient)
+        private static QuerySponsorResponseModel querySponsor(AfdianClient afdianClient)
         {
             var page = 1;
             QuerySponsorResponseModel? order = null;
