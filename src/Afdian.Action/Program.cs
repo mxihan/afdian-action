@@ -2,6 +2,7 @@
 
 using Afdian.Action.ViewModels;
 using Afdian.Sdk;
+using Afdian.Sdk.ResponseModels;
 using RazorEngineCore;
 
 namespace Afdian.Action
