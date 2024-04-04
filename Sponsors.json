@@ -1,6 +1,24 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "c7032cfcf06011ebb2ca52540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/c7032cfcf06011ebb2ca52540025c377/avatar/5377c97c9d063594f5fa0c0a3135a357_w1696_h1695_s716.jpeg?imageView2/1/w/120/h/120",
+      "Name": "玖伍贰柒",
+      "SponsorshipCount": 1,
+      "TotalMoney": 20.0,
+      "Remarks": "rin服蒸蒸日上啊",
+      "CurrentPlan": "大月卡"
+    },
+    {
+      "UserId": "a3c9624ac59811eaa86c52540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/a3c9624ac59811eaa86c52540025c377/avatar/c42d086dbde61716630cf1884ea6ca33_w1080_h1080_s87.jpg?imageView2/1/w/120/h/120",
+      "Name": "HEROGOBLINS",
+      "SponsorshipCount": 1,
+      "TotalMoney": 60.0,
+      "Remarks": "",
+      "CurrentPlan": "迷你月卡"
+    },
+    {
       "UserId": "40c04480f1da11ee877c52540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/40c04480f1da11ee877c52540025c377/avatar/4c4efe5cc5863e904456fd8f77ed75bd_w446_h447_s37.jpeg?imageView2/1/w/120/h/120",
       "Name": "58",
@@ -161,25 +179,7 @@
       "TotalMoney": 60.0,
       "Remarks": "什么时候hime能整...",
       "CurrentPlan": "大月卡"
-    },
-    {
-      "UserId": "d5237342c27711ed894352540025c377",
-      "AvatarUrl": "https://pic1.afdiancdn.com/user/user_upload_osl/1ff0df0ace727bf5630c7c10de3987e6_w132_h132_s6.jpeg?imageView2/1/w/120/h/120",
-      "Name": "扬书",
-      "SponsorshipCount": 1,
-      "TotalMoney": 20.0,
-      "Remarks": "",
-      "CurrentPlan": ""
-    },
-    {
-      "UserId": "3dc2a5586a9611eb958b52540025c377",
-      "AvatarUrl": "https://pic1.afdiancdn.com/user/3dc2a5586a9611eb958b52540025c377/avatar/aa82c6baf2e2565d145579e074073763_w1381_h1432_s1751.png?imageView2/1/w/120/h/120",
-      "Name": "重桜の容容",
-      "SponsorshipCount": 1,
-      "TotalMoney": 10.0,
-      "Remarks": "我不是wmc，不要踢...",
-      "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2024-04-04 17:06:42"
+  "UpdateTime": "2024-04-04 18:06:26"
 }
