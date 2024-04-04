@@ -1,6 +1,33 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "40c04480f1da11ee877c52540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/40c04480f1da11ee877c52540025c377/avatar/4c4efe5cc5863e904456fd8f77ed75bd_w446_h447_s37.jpeg?imageView2/1/w/120/h/120",
+      "Name": "58",
+      "SponsorshipCount": 1,
+      "TotalMoney": 120.0,
+      "Remarks": "",
+      "CurrentPlan": "自选方案"
+    },
+    {
+      "UserId": "e10adddaf25a11ee924052540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120",
+      "Name": "爱发电用户_e10ad",
+      "SponsorshipCount": 1,
+      "TotalMoney": 5.0,
+      "Remarks": "",
+      "CurrentPlan": "迷你月卡"
+    },
+    {
+      "UserId": "7f4b603442da11eba5ed52540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/7f4b603442da11eba5ed52540025c377/avatar/568a60c788beff8a959be7ac4e2c1821_w250_h168_s34.png?imageView2/1/w/120/h/120",
+      "Name": "宁曦",
+      "SponsorshipCount": 1,
+      "TotalMoney": 15.0,
+      "Remarks": "",
+      "CurrentPlan": "迷你月卡"
+    },
+    {
       "UserId": "c488171ef25911eea8bc52540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/c488171ef25911eea8bc52540025c377/avatar/1e8796b5e44d63051a20779a0ad7226a_w1519_h2119_s420.jpeg?imageView2/1/w/120/h/120",
       "Name": "QiuYYY",
@@ -152,34 +179,7 @@
       "TotalMoney": 10.0,
       "Remarks": "我不是wmc，不要踢...",
       "CurrentPlan": ""
-    },
-    {
-      "UserId": "3fe1854eb44d11ee8f9f52540025c377",
-      "AvatarUrl": "https://pic1.afdiancdn.com/user/user_upload_osl/b303ddce52a0e447004137b46be40583_w132_h132_s5.jpeg?imageView2/1/w/120/h/120",
-      "Name": "zongzidesu",
-      "SponsorshipCount": 1,
-      "TotalMoney": 50.0,
-      "Remarks": "兄弟，我爱你",
-      "CurrentPlan": ""
-    },
-    {
-      "UserId": "1604865eaef811ee82bf5254001e7c00",
-      "AvatarUrl": "https://pic1.afdiancdn.com/user/user_upload_osl/f9e61ac96c5dbfa8b4684ea4eda88529_w132_h132_s5.jpeg?imageView2/1/w/120/h/120",
-      "Name": "。",
-      "SponsorshipCount": 3,
-      "TotalMoney": 74.0,
-      "Remarks": "",
-      "CurrentPlan": "自选方案"
-    },
-    {
-      "UserId": "c84ff482d50711ec923852540025c377",
-      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-yellow.png?imageView2/1/w/120/h/120",
-      "Name": "吉吉",
-      "SponsorshipCount": 1,
-      "TotalMoney": 60.0,
-      "Remarks": "祝rin服越来越好捏",
-      "CurrentPlan": "小月卡"
     }
   ],
-  "UpdateTime": "2024-04-04 16:07:55"
+  "UpdateTime": "2024-04-04 17:06:42"
 }
