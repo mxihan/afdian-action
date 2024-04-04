@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "03b83cfa7ee411e99d0852540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/03b83cfa7ee411e99d0852540025c377/avatar/e3ccb96b463618ade1d69f289199441c_w428_h428_s58.jpg?imageView2/1/w/120/h/120",
+      "Name": "MFY",
+      "SponsorshipCount": 1,
+      "TotalMoney": 10.0,
+      "Remarks": "",
+      "CurrentPlan": "小月卡"
+    },
+    {
       "UserId": "c7032cfcf06011ebb2ca52540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/c7032cfcf06011ebb2ca52540025c377/avatar/5377c97c9d063594f5fa0c0a3135a357_w1696_h1695_s716.jpeg?imageView2/1/w/120/h/120",
       "Name": "玖伍贰柒",
@@ -170,16 +179,7 @@
       "TotalMoney": 60.0,
       "Remarks": "",
       "CurrentPlan": "小月卡"
-    },
-    {
-      "UserId": "8a459ef2b44f11ee933952540025c377",
-      "AvatarUrl": "https://pic1.afdiancdn.com/user/8a459ef2b44f11ee933952540025c377/avatar/ddb2d9ebf3101a2bff2dea5e7ab8a645_w468_h468_s52.jpeg?imageView2/1/w/120/h/120",
-      "Name": "duxian",
-      "SponsorshipCount": 3,
-      "TotalMoney": 60.0,
-      "Remarks": "什么时候hime能整...",
-      "CurrentPlan": "大月卡"
     }
   ],
-  "UpdateTime": "2024-04-04 18:06:26"
+  "UpdateTime": "2024-04-04 19:05:54"
 }
