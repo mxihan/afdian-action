@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "d62f9acef28511eea7405254001e7c00",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120",
+      "Name": "爱发电用户_d62f9",
+      "SponsorshipCount": 1,
+      "TotalMoney": 30.0,
+      "Remarks": "",
+      "CurrentPlan": "至尊月卡"
+    },
+    {
       "UserId": "03b83cfa7ee411e99d0852540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/03b83cfa7ee411e99d0852540025c377/avatar/e3ccb96b463618ade1d69f289199441c_w428_h428_s58.jpg?imageView2/1/w/120/h/120",
       "Name": "MFY",
@@ -94,8 +103,8 @@
       "UserId": "5581b3a2b8ad11ed8c4552540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/5581b3a2b8ad11ed8c4552540025c377/avatar/b2df9e62da14752fb8d70d2a3112c315_w650_h650_s133.jpeg?imageView2/1/w/120/h/120",
       "Name": "Eternal973",
-      "SponsorshipCount": 2,
-      "TotalMoney": 60.0,
+      "SponsorshipCount": 3,
+      "TotalMoney": 90.0,
       "Remarks": "？挺好的，真是开开又...",
       "CurrentPlan": "至尊月卡"
     },
@@ -170,16 +179,7 @@
       "TotalMoney": 40.0,
       "Remarks": "",
       "CurrentPlan": "至尊月卡"
-    },
-    {
-      "UserId": "8c1a0d36dbb711eaa51352540025c377",
-      "AvatarUrl": "https://pic1.afdiancdn.com/user/8c1a0d36dbb711eaa51352540025c377/avatar/dd221cf764056f0913149be84d016bda_w392_h392_s85.jpeg?imageView2/1/w/120/h/120",
-      "Name": "Sanhei",
-      "SponsorshipCount": 1,
-      "TotalMoney": 60.0,
-      "Remarks": "",
-      "CurrentPlan": "小月卡"
     }
   ],
-  "UpdateTime": "2024-04-04 21:06:37"
+  "UpdateTime": "2024-04-04 22:07:32"
 }
