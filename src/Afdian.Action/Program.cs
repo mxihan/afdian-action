@@ -52,7 +52,7 @@ namespace Afdian.Action
                 return;
             }
             var orderModel = queryOrder(afdianClient);
-            var sponsorModel = queryOrder(afdianClient);
+            var sponsorModel = querySponsor(afdianClient);
 
             // 2. 组成 ViewModel
             var viewModel = new ViewModels.AfdianViewModel()
