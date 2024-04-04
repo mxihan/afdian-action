@@ -1,6 +1,24 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "c488171ef25911eea8bc52540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/c488171ef25911eea8bc52540025c377/avatar/1e8796b5e44d63051a20779a0ad7226a_w1519_h2119_s420.jpeg?imageView2/1/w/120/h/120",
+      "Name": "QiuYYY",
+      "SponsorshipCount": 1,
+      "TotalMoney": 10.0,
+      "Remarks": "",
+      "CurrentPlan": "小月卡"
+    },
+    {
+      "UserId": "9bb0534cf25911ee8dba52540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/user_upload_osl/bb60f4e97f6d3388c90e24af7861f37f_w132_h132_s3.jpeg?imageView2/1/w/120/h/120",
+      "Name": "NIJIKA",
+      "SponsorshipCount": 1,
+      "TotalMoney": 30.0,
+      "Remarks": "",
+      "CurrentPlan": "至尊月卡"
+    },
+    {
       "UserId": "717eec90c96e11eaba3452540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-yellow.png?imageView2/1/w/120/h/120",
       "Name": "Shiroha",
@@ -161,25 +179,7 @@
       "TotalMoney": 60.0,
       "Remarks": "祝rin服越来越好捏",
       "CurrentPlan": "小月卡"
-    },
-    {
-      "UserId": "bce9e94669db11ec9ffe52540025c377",
-      "AvatarUrl": "https://pic1.afdiancdn.com/user/bce9e94669db11ec9ffe52540025c377/avatar/fce792492f88552570ae3f8a928b5dfa_w500_h500_s3.png?imageView2/1/w/120/h/120",
-      "Name": "STE Network - STE87",
-      "SponsorshipCount": 3,
-      "TotalMoney": 140.0,
-      "Remarks": "",
-      "CurrentPlan": "小月卡"
-    },
-    {
-      "UserId": "36d17242ce9f11ecb76a52540025c377",
-      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-orange.png?imageView2/1/w/120/h/120",
-      "Name": "jy",
-      "SponsorshipCount": 4,
-      "TotalMoney": 60.0,
-      "Remarks": "",
-      "CurrentPlan": "大月卡"
     }
   ],
-  "UpdateTime": "2024-04-04 15:06:18"
+  "UpdateTime": "2024-04-04 16:07:55"
 }
