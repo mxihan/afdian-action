@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "df31004292b211edb13852540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/df31004292b211edb13852540025c377/avatar/8846ba2ca33d3dff7228fe84138fe9a7_w648_h648_s51.jpeg?imageView2/1/w/120/h/120",
+      "Name": "soliprum",
+      "SponsorshipCount": 1,
+      "TotalMoney": 180.0,
+      "Remarks": "",
+      "CurrentPlan": "至尊月卡"
+    },
+    {
       "UserId": "ed7ad6e0f30b11ee94605254001e7c00",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/ed7ad6e0f30b11ee94605254001e7c00/avatar/835fce97711f252bbab5ffe64064f447_w756_h756_s150.jpeg?imageView2/1/w/120/h/120",
       "Name": "‘’ZAQUVA‘’",
@@ -307,5 +316,5 @@
       "CurrentPlan": "大月卡"
     }
   ],
-  "UpdateTime": "2024-04-05 17:06:20"
+  "UpdateTime": "2024-04-05 18:07:21"
 }
