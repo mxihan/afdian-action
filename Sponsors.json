@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "5e89299081f711eda34b52540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120",
+      "Name": "爱发电用户_5e892",
+      "SponsorshipCount": 1,
+      "TotalMoney": 120.0,
+      "Remarks": "",
+      "CurrentPlan": "小月卡"
+    },
+    {
       "UserId": "df31004292b211edb13852540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/df31004292b211edb13852540025c377/avatar/8846ba2ca33d3dff7228fe84138fe9a7_w648_h648_s51.jpeg?imageView2/1/w/120/h/120",
       "Name": "soliprum",
@@ -12,7 +21,7 @@
     {
       "UserId": "ed7ad6e0f30b11ee94605254001e7c00",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/ed7ad6e0f30b11ee94605254001e7c00/avatar/835fce97711f252bbab5ffe64064f447_w756_h756_s150.jpeg?imageView2/1/w/120/h/120",
-      "Name": "‘’ZAQUVA‘’",
+      "Name": "’’ZAQUVA’’",
       "SponsorshipCount": 1,
       "TotalMoney": 60.0,
       "Remarks": "我喜欢你",
@@ -316,5 +325,5 @@
       "CurrentPlan": "大月卡"
     }
   ],
-  "UpdateTime": "2024-04-05 18:07:21"
+  "UpdateTime": "2024-04-05 19:06:28"
 }
