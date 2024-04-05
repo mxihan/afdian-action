@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "ed7ad6e0f30b11ee94605254001e7c00",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/ed7ad6e0f30b11ee94605254001e7c00/avatar/835fce97711f252bbab5ffe64064f447_w756_h756_s150.jpeg?imageView2/1/w/120/h/120",
+      "Name": "‘’ZAQUVA‘’",
+      "SponsorshipCount": 1,
+      "TotalMoney": 60.0,
+      "Remarks": "我喜欢你",
+      "CurrentPlan": "大月卡"
+    },
+    {
       "UserId": "3e5c1928dd8b11ebbbc352540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/3e5c1928dd8b11ebbbc352540025c377/avatar/2f5a8809831df1d154b0457abe912635_w640_h640_s135.jpg?imageView2/1/w/120/h/120",
       "Name": "Rinne",
@@ -298,5 +307,5 @@
       "CurrentPlan": "大月卡"
     }
   ],
-  "UpdateTime": "2024-04-05 13:06:31"
+  "UpdateTime": "2024-04-05 14:07:13"
 }
