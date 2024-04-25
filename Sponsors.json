@@ -220,10 +220,10 @@
       "UserId": "60ea37ced54511ec86dc52540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/60ea37ced54511ec86dc52540025c377/avatar/03a83d2fa20d57a5115d70b7e31cf3df_w640_h360_s233.png?imageView2/1/w/120/h/120",
       "Name": "XiliL",
-      "SponsorshipCount": 1,
-      "TotalMoney": 10.0,
+      "SponsorshipCount": 2,
+      "TotalMoney": 20.0,
       "Remarks": "当每个月交网费了，希...",
-      "CurrentPlan": ""
+      "CurrentPlan": "小月卡"
     },
     {
       "UserId": "79e35fb8eeb311eba94652540025c377",
@@ -343,5 +343,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2024-04-25 15:07:09"
+  "UpdateTime": "2024-04-25 16:07:39"
 }
