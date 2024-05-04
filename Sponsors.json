@@ -88,7 +88,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 30.0,
       "Remarks": "",
-      "CurrentPlan": "至尊月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "03b83cfa7ee411e99d0852540025c377",
@@ -97,7 +97,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 10.0,
       "Remarks": "",
-      "CurrentPlan": "小月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "c7032cfcf06011ebb2ca52540025c377",
@@ -106,7 +106,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 20.0,
       "Remarks": "rin服蒸蒸日上啊",
-      "CurrentPlan": "大月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "a3c9624ac59811eaa86c52540025c377",
@@ -133,7 +133,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 5.0,
       "Remarks": "",
-      "CurrentPlan": "迷你月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "7f4b603442da11eba5ed52540025c377",
@@ -151,7 +151,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 10.0,
       "Remarks": "",
-      "CurrentPlan": "小月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "9bb0534cf25911ee8dba52540025c377",
@@ -160,7 +160,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 30.0,
       "Remarks": "",
-      "CurrentPlan": "至尊月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "717eec90c96e11eaba3452540025c377",
@@ -343,5 +343,5 @@
       "CurrentPlan": "至尊月卡"
     }
   ],
-  "UpdateTime": "2024-05-04 23:06:27"
+  "UpdateTime": "2024-05-05 00:06:43"
 }
