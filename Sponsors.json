@@ -70,7 +70,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 10.0,
       "Remarks": "",
-      "CurrentPlan": "小月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "34a853d4eeb011eba9b052540025c377",
@@ -343,5 +343,5 @@
       "CurrentPlan": "至尊月卡"
     }
   ],
-  "UpdateTime": "2024-05-05 22:06:29"
+  "UpdateTime": "2024-05-06 00:07:19"
 }
