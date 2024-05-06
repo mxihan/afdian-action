@@ -310,10 +310,10 @@
       "UserId": "1604865eaef811ee82bf5254001e7c00",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/1604865eaef811ee82bf5254001e7c00/avatar/0639c919ecdd4b5ec823ede4180f9eef_w512_h512_s33.png?imageView2/1/w/120/h/120",
       "Name": "。",
-      "SponsorshipCount": 3,
-      "TotalMoney": 74.0,
+      "SponsorshipCount": 4,
+      "TotalMoney": 94.0,
       "Remarks": "",
-      "CurrentPlan": ""
+      "CurrentPlan": "大月卡"
     },
     {
       "UserId": "c84ff482d50711ec923852540025c377",
@@ -343,5 +343,5 @@
       "CurrentPlan": "至尊月卡"
     }
   ],
-  "UpdateTime": "2024-05-06 16:07:58"
+  "UpdateTime": "2024-05-06 17:07:24"
 }
