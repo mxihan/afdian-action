@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "ac1aa1e4ef5311eba89c52540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/ac1aa1e4ef5311eba89c52540025c377/avatar/2a16489fd7ad7102e9c3adbf2f5689c7_w2514_h2375_s1053.png?imageView2/1/w/120/h/120",
+      "Name": "凛辰",
+      "SponsorshipCount": 1,
+      "TotalMoney": 15.0,
+      "Remarks": "请一定要活下来！",
+      "CurrentPlan": "迷你月卡"
+    },
+    {
       "UserId": "ae04e008ed5611ecb36352540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/ae04e008ed5611ecb36352540025c377/avatar/9c1038bb4eb3c0ea01cded9d9536f77d_w1080_h1080_s90.jpeg?imageView2/1/w/120/h/120",
       "Name": "敖犬 布洛特亨德尔都不玩",
@@ -343,5 +352,5 @@
       "CurrentPlan": "至尊月卡"
     }
   ],
-  "UpdateTime": "2024-05-11 23:06:14"
+  "UpdateTime": "2024-05-12 00:06:54"
 }
