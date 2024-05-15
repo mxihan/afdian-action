@@ -67,8 +67,8 @@
       "UserId": "e8099c26f29f11eebfdf52540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120",
       "Name": "爱发电用户_e8099",
-      "SponsorshipCount": 1,
-      "TotalMoney": 90.0,
+      "SponsorshipCount": 2,
+      "TotalMoney": 180.0,
       "Remarks": "",
       "CurrentPlan": "至尊月卡"
     },
@@ -166,10 +166,10 @@
       "UserId": "9bb0534cf25911ee8dba52540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/user_upload_osl/bb60f4e97f6d3388c90e24af7861f37f_w132_h132_s3.jpeg?imageView2/1/w/120/h/120",
       "Name": "NIJIKA",
-      "SponsorshipCount": 1,
-      "TotalMoney": 30.0,
+      "SponsorshipCount": 2,
+      "TotalMoney": 90.0,
       "Remarks": "",
-      "CurrentPlan": ""
+      "CurrentPlan": "小月卡"
     },
     {
       "UserId": "717eec90c96e11eaba3452540025c377",
@@ -352,5 +352,5 @@
       "CurrentPlan": "至尊月卡"
     }
   ],
-  "UpdateTime": "2024-05-15 16:07:54"
+  "UpdateTime": "2024-05-15 17:07:30"
 }
