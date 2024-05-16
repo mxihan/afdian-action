@@ -1,6 +1,33 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "5addd936138b11efaea55254001e7c00",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120",
+      "Name": "爱发电用户_5addd",
+      "SponsorshipCount": 1,
+      "TotalMoney": 5.0,
+      "Remarks": "",
+      "CurrentPlan": "迷你月卡"
+    },
+    {
+      "UserId": "cbed37cc953811eb86ee52540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/cbed37cc953811eb86ee52540025c377/avatar/8a7ff51107ca3ea6b792aa422166f81b_w700_h700_s171.jpg?imageView2/1/w/120/h/120",
+      "Name": "Rosmontis",
+      "SponsorshipCount": 1,
+      "TotalMoney": 90.0,
+      "Remarks": "感谢Rin为广大玩家...",
+      "CurrentPlan": "至尊月卡"
+    },
+    {
+      "UserId": "64d2fcf40dab11ea9e4952540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/64d2fcf40dab11ea9e4952540025c377/avatar/3e8ff8e326379876cb39e3e923babc5f_w600_h600_s467.png?imageView2/1/w/120/h/120",
+      "Name": "Kagurate",
+      "SponsorshipCount": 1,
+      "TotalMoney": 180.0,
+      "Remarks": "",
+      "CurrentPlan": "至尊月卡"
+    },
+    {
       "UserId": "ac1aa1e4ef5311eba89c52540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/ac1aa1e4ef5311eba89c52540025c377/avatar/2a16489fd7ad7102e9c3adbf2f5689c7_w2514_h2375_s1053.png?imageView2/1/w/120/h/120",
       "Name": "凛辰",
@@ -130,9 +157,9 @@
       "UserId": "40c04480f1da11ee877c52540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/40c04480f1da11ee877c52540025c377/avatar/4c4efe5cc5863e904456fd8f77ed75bd_w446_h447_s37.jpeg?imageView2/1/w/120/h/120",
       "Name": "58",
-      "SponsorshipCount": 1,
-      "TotalMoney": 120.0,
-      "Remarks": "",
+      "SponsorshipCount": 2,
+      "TotalMoney": 240.0,
+      "Remarks": "1111",
       "CurrentPlan": "自选方案"
     },
     {
@@ -352,5 +379,5 @@
       "CurrentPlan": "至尊月卡"
     }
   ],
-  "UpdateTime": "2024-05-16 21:06:51"
+  "UpdateTime": "2024-05-16 22:07:34"
 }
