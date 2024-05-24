@@ -49,10 +49,10 @@
       "UserId": "ae04e008ed5611ecb36352540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/ae04e008ed5611ecb36352540025c377/avatar/9c1038bb4eb3c0ea01cded9d9536f77d_w1080_h1080_s90.jpeg?imageView2/1/w/120/h/120",
       "Name": "敖犬 布洛特亨德尔都不玩",
-      "SponsorshipCount": 1,
-      "TotalMoney": 10.0,
+      "SponsorshipCount": 2,
+      "TotalMoney": 20.0,
       "Remarks": "",
-      "CurrentPlan": ""
+      "CurrentPlan": "小月卡"
     },
     {
       "UserId": "e024b7baf56111ee8c3352540025c377",
@@ -388,5 +388,5 @@
       "CurrentPlan": "至尊月卡"
     }
   ],
-  "UpdateTime": "2024-05-25 02:07:52"
+  "UpdateTime": "2024-05-25 03:06:02"
 }
