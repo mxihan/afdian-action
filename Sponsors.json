@@ -58,9 +58,9 @@
       "UserId": "64d2fcf40dab11ea9e4952540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/64d2fcf40dab11ea9e4952540025c377/avatar/3e8ff8e326379876cb39e3e923babc5f_w600_h600_s467.png?imageView2/1/w/120/h/120",
       "Name": "Kagurate",
-      "SponsorshipCount": 1,
-      "TotalMoney": 180.0,
-      "Remarks": "",
+      "SponsorshipCount": 2,
+      "TotalMoney": 680.0,
+      "Remarks": "我喜欢你",
       "CurrentPlan": "至尊月卡"
     },
     {
@@ -415,5 +415,5 @@
       "CurrentPlan": "至尊月卡"
     }
   ],
-  "UpdateTime": "2024-05-28 16:08:58"
+  "UpdateTime": "2024-05-28 17:06:29"
 }
