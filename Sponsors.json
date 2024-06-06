@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "35f245a224a411ee81ce52540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/35f245a224a411ee81ce52540025c377/avatar/e7d5099c4030e242b2aee51bc36d6b4e_w549_h549_s78.jpg?imageView2/1/w/120/h/120",
+      "Name": "Gennet",
+      "SponsorshipCount": 1,
+      "TotalMoney": 5.0,
+      "Remarks": "rinnet 怎么还...",
+      "CurrentPlan": "迷你月卡"
+    },
+    {
       "UserId": "d97fd3549d1b11ec958552540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-yellow.png?imageView2/1/w/120/h/120",
       "Name": "爱发电用户_j6wC",
@@ -424,5 +433,5 @@
       "CurrentPlan": "至尊月卡"
     }
   ],
-  "UpdateTime": "2024-06-06 22:06:45"
+  "UpdateTime": "2024-06-06 23:06:54"
 }
