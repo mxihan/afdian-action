@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "73f2a294288011ef9a7b5254001e7c00",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/user_upload_osl/698802d9ed6145a68cb214cc6039d0ca_w132_h132_s5.jpeg?imageView2/1/w/120/h/120",
+      "Name": "^夕暮re",
+      "SponsorshipCount": 1,
+      "TotalMoney": 15.0,
+      "Remarks": "",
+      "CurrentPlan": "迷你月卡"
+    },
+    {
       "UserId": "35f245a224a411ee81ce52540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/35f245a224a411ee81ce52540025c377/avatar/e7d5099c4030e242b2aee51bc36d6b4e_w549_h549_s78.jpg?imageView2/1/w/120/h/120",
       "Name": "Gennet",
@@ -433,5 +442,5 @@
       "CurrentPlan": "至尊月卡"
     }
   ],
-  "UpdateTime": "2024-06-12 13:06:31"
+  "UpdateTime": "2024-06-12 14:08:07"
 }
