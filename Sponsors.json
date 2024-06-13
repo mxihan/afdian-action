@@ -355,8 +355,8 @@
       "UserId": "56c28c30177311eea88952540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/56c28c30177311eea88952540025c377/avatar/19665f8debfce4d7f1bd497b53e87910_w537_h541_s154.jpeg?imageView2/1/w/120/h/120",
       "Name": "Cuprum",
-      "SponsorshipCount": 6,
-      "TotalMoney": 100.0,
+      "SponsorshipCount": 7,
+      "TotalMoney": 130.0,
       "Remarks": "",
       "CurrentPlan": "至尊月卡"
     },
@@ -442,5 +442,5 @@
       "CurrentPlan": "至尊月卡"
     }
   ],
-  "UpdateTime": "2024-06-13 14:08:23"
+  "UpdateTime": "2024-06-13 15:06:31"
 }
