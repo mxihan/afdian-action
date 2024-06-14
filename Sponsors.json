@@ -292,10 +292,10 @@
       "UserId": "23a1db6aecc811ed953d5254001e7c00",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/23a1db6aecc811ed953d5254001e7c00/avatar/4662a694a6656b15fd4653a98e7bcf5a_w1080_h2400_s613.jpeg?imageView2/1/w/120/h/120",
       "Name": "LIFEhope",
-      "SponsorshipCount": 4,
-      "TotalMoney": 101.45,
+      "SponsorshipCount": 5,
+      "TotalMoney": 111.45,
       "Remarks": "aime卡被人盗绑能...",
-      "CurrentPlan": ""
+      "CurrentPlan": "小月卡"
     },
     {
       "UserId": "5eb7bc402e1511e9b8f452540025c377",
@@ -442,5 +442,5 @@
       "CurrentPlan": "至尊月卡"
     }
   ],
-  "UpdateTime": "2024-06-14 18:06:24"
+  "UpdateTime": "2024-06-14 20:09:56"
 }
