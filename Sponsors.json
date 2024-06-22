@@ -385,7 +385,7 @@
       "SponsorshipCount": 5,
       "TotalMoney": 100.0,
       "Remarks": "什么时候hime能整...",
-      "CurrentPlan": "大月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "d5237342c27711ed894352540025c377",
@@ -451,5 +451,5 @@
       "CurrentPlan": "至尊月卡"
     }
   ],
-  "UpdateTime": "2024-06-22 23:06:19"
+  "UpdateTime": "2024-06-23 00:06:40"
 }
