@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "083a989c0cc411edbdef52540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/083a989c0cc411edbdef52540025c377/avatar/53e0d69821073527cbdbbe75a7d3ab12_w1170_h1224_s842.jpeg?imageView2/1/w/120/h/120",
+      "Name": "NEKOMEMOネコメモー",
+      "SponsorshipCount": 1,
+      "TotalMoney": 5.0,
+      "Remarks": "",
+      "CurrentPlan": "迷你月卡"
+    },
+    {
       "UserId": "93d202e82b8d11ef986a52540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/user_upload_osl/aeb440ea0f8271050d17485fa400eb6c_w131_h132_s9.jpeg?imageView2/1/w/120/h/120",
       "Name": "Richard_Scott",
@@ -451,5 +460,5 @@
       "CurrentPlan": "至尊月卡"
     }
   ],
-  "UpdateTime": "2024-06-23 20:09:15"
+  "UpdateTime": "2024-06-23 21:06:18"
 }
