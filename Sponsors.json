@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "c57f7192720a11edbe1c52540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120",
+      "Name": "爱发电用户_c57f7",
+      "SponsorshipCount": 1,
+      "TotalMoney": 60.0,
+      "Remarks": "",
+      "CurrentPlan": "迷你月卡"
+    },
+    {
       "UserId": "083a989c0cc411edbdef52540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/083a989c0cc411edbdef52540025c377/avatar/53e0d69821073527cbdbbe75a7d3ab12_w1170_h1224_s842.jpeg?imageView2/1/w/120/h/120",
       "Name": "NEKOMEMOネコメモー",
@@ -460,5 +469,5 @@
       "CurrentPlan": "至尊月卡"
     }
   ],
-  "UpdateTime": "2024-07-11 15:06:40"
+  "UpdateTime": "2024-07-11 16:08:00"
 }
