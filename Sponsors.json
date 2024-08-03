@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "ac85844425e511ee95bc5254001e7c00",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/ac85844425e511ee95bc5254001e7c00/avatar/dbfe420060ec9cea35452c15b95dc063_w2048_h2048_s777.png?imageView2/1/w/120/h/120",
+      "Name": "DKoTechnology",
+      "SponsorshipCount": 1,
+      "TotalMoney": 5.0,
+      "Remarks": "byd mr.rin...",
+      "CurrentPlan": "迷你月卡"
+    },
+    {
       "UserId": "c57f7192720a11edbe1c52540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120",
       "Name": "爱发电用户_c57f7",
@@ -16,7 +25,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 5.0,
       "Remarks": "",
-      "CurrentPlan": "迷你月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "93d202e82b8d11ef986a52540025c377",
@@ -25,7 +34,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 5.0,
       "Remarks": "服主好，我在这问一个...",
-      "CurrentPlan": "迷你月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "73f2a294288011ef9a7b5254001e7c00",
@@ -328,10 +337,10 @@
       "UserId": "5eb7bc402e1511e9b8f452540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/5eb7bc402e1511e9b8f452540025c377/avatar/cf5ff3d0f95b3e28a9f86c29a52d9f85_w960_h960_s184.jpeg?imageView2/1/w/120/h/120",
       "Name": "Nick29",
-      "SponsorshipCount": 1,
-      "TotalMoney": 50.0,
+      "SponsorshipCount": 2,
+      "TotalMoney": 100.0,
       "Remarks": "",
-      "CurrentPlan": ""
+      "CurrentPlan": "自选方案"
     },
     {
       "UserId": "e73b9208fcf311eb8dd552540025c377",
@@ -385,7 +394,7 @@
       "SponsorshipCount": 7,
       "TotalMoney": 130.0,
       "Remarks": "",
-      "CurrentPlan": "至尊月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "8c1a0d36dbb711eaa51352540025c377",
@@ -394,7 +403,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 60.0,
       "Remarks": "",
-      "CurrentPlan": "小月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "8a459ef2b44f11ee933952540025c377",
@@ -448,7 +457,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 60.0,
       "Remarks": "祝rin服越来越好捏",
-      "CurrentPlan": "小月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "bce9e94669db11ec9ffe52540025c377",
@@ -466,8 +475,8 @@
       "SponsorshipCount": 5,
       "TotalMoney": 150.0,
       "Remarks": "",
-      "CurrentPlan": "至尊月卡"
+      "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2024-07-15 09:33:36"
+  "UpdateTime": "2024-08-04 03:15:05"
 }
