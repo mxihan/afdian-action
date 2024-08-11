@@ -142,7 +142,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 15.0,
       "Remarks": "请一定要活下来！",
-      "CurrentPlan": "迷你月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "ae04e008ed5611ecb36352540025c377",
@@ -487,5 +487,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2024-08-11 22:06:29"
+  "UpdateTime": "2024-08-12 01:06:26"
 }
