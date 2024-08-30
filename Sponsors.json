@@ -25,7 +25,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 5.0,
       "Remarks": "byd mr.rin...",
-      "CurrentPlan": "迷你月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "c57f7192720a11edbe1c52540025c377",
@@ -496,5 +496,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2024-08-30 23:06:44"
+  "UpdateTime": "2024-08-31 00:07:10"
 }
