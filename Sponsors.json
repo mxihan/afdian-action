@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "3ddc1862928d11ea87a052540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-orange.png?imageView2/1/w/120/h/120",
+      "Name": "双阙舞剑腾云间",
+      "SponsorshipCount": 1,
+      "TotalMoney": 90.0,
+      "Remarks": "",
+      "CurrentPlan": "至尊月卡"
+    },
+    {
       "UserId": "0e9ddc6e5cc011efb3eb5254001e7c00",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120",
       "Name": "爱发电用户_0e9dd",
@@ -409,10 +418,10 @@
       "UserId": "56c28c30177311eea88952540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/56c28c30177311eea88952540025c377/avatar/19665f8debfce4d7f1bd497b53e87910_w537_h541_s154.jpeg?imageView2/1/w/120/h/120",
       "Name": "Cuprum",
-      "SponsorshipCount": 7,
-      "TotalMoney": 130.0,
+      "SponsorshipCount": 9,
+      "TotalMoney": 220.0,
       "Remarks": "",
-      "CurrentPlan": ""
+      "CurrentPlan": "至尊月卡"
     },
     {
       "UserId": "8c1a0d36dbb711eaa51352540025c377",
@@ -496,5 +505,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2024-09-06 23:06:36"
+  "UpdateTime": "2024-09-07 00:07:22"
 }
