@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "b06a575c863211efb9b952540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/b06a575c863211efb9b952540025c377/avatar/ed555f4b662aa54770fe6ee882868dc6_w940_h939_s195.jpeg?imageView2/1/w/120/h/120",
+      "Name": "Ovenwan",
+      "SponsorshipCount": 1,
+      "TotalMoney": 5.0,
+      "Remarks": "",
+      "CurrentPlan": "迷你月卡"
+    },
+    {
       "UserId": "11e59f106d3211ef83005254001e7c00",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120",
       "Name": "爱发电用户_11e59",
@@ -514,5 +523,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2024-10-09 19:06:32"
+  "UpdateTime": "2024-10-09 20:11:22"
 }
