@@ -1,6 +1,24 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "043ddf30172911efa66252540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/043ddf30172911efa66252540025c377/avatar/8cff8b60295ce5901922bdf74e895ed8_w640_h640_s60.jpeg?imageView2/1/w/120/h/120",
+      "Name": "L.S. Elements",
+      "SponsorshipCount": 1,
+      "TotalMoney": 90.0,
+      "Remarks": "",
+      "CurrentPlan": "至尊月卡"
+    },
+    {
+      "UserId": "cfb9461c883111ef83c352540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120",
+      "Name": "爱发电用户_cfb94",
+      "SponsorshipCount": 0,
+      "TotalMoney": 0.0,
+      "Remarks": "",
+      "CurrentPlan": ""
+    },
+    {
       "UserId": "1b2c7c16871511ec993e52540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/1b2c7c16871511ec993e52540025c377/avatar/2de520a4a9f94533a396bb4098c3f702_w1000_h950_s152.png?imageView2/1/w/120/h/120",
       "Name": "Neo",
@@ -532,5 +550,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2024-10-12 08:28:12"
+  "UpdateTime": "2024-10-12 09:34:10"
 }
