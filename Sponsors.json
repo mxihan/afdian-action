@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "2dbb7e768e7511ef96755254001e7c00",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/2dbb7e768e7511ef96755254001e7c00/avatar/4c154b47d5ed44acee29dc7ff54cc97f_w1500_h1002_s1005.jpeg?imageView2/1/w/120/h/120",
+      "Name": "Lulan",
+      "SponsorshipCount": 1,
+      "TotalMoney": 60.0,
+      "Remarks": "支持！",
+      "CurrentPlan": "大月卡"
+    },
+    {
       "UserId": "043ddf30172911efa66252540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/043ddf30172911efa66252540025c377/avatar/8cff8b60295ce5901922bdf74e895ed8_w640_h640_s60.jpeg?imageView2/1/w/120/h/120",
       "Name": "L.S. Elements",
@@ -550,5 +559,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2024-10-20 07:06:48"
+  "UpdateTime": "2024-10-20 08:32:33"
 }
