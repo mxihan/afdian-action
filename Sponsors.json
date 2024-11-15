@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "c7441c22eeb111ebb90952540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/c7441c22eeb111ebb90952540025c377/avatar/e0f722e6c7e1f0504b5b9f36c2b50656_w1280_h956_s119.jpeg?imageView2/1/w/120/h/120",
+      "Name": "二货甜鱼",
+      "SponsorshipCount": 1,
+      "TotalMoney": 30.0,
+      "Remarks": "",
+      "CurrentPlan": "迷你月卡"
+    },
+    {
       "UserId": "c34290d89b2711ef9d0052540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120",
       "Name": "爱发电用户_c3429",
@@ -595,5 +604,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2024-11-15 23:07:22"
+  "UpdateTime": "2024-11-16 01:06:40"
 }
