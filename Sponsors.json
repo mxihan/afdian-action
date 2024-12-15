@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "812725b0bb0c11ef8a1a52540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/812725b0bb0c11ef8a1a52540025c377/avatar/5fc6d7edce4ccb36128774cd5fa582bc_w640_h640_s55.jpeg?imageView2/1/w/120/h/120",
+      "Name": "Endbetrag",
+      "SponsorshipCount": 1,
+      "TotalMoney": 90.0,
+      "Remarks": "希望net能支持更多...",
+      "CurrentPlan": "至尊月卡"
+    },
+    {
       "UserId": "1306f45aeec011eba56e52540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/1306f45aeec011eba56e52540025c377/avatar/c389561a0ff8578aeca06423e37382d3_w587_h934_s58.jpeg?imageView2/1/w/120/h/120",
       "Name": "夢",
@@ -622,5 +631,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2024-12-16 01:06:30"
+  "UpdateTime": "2024-12-16 02:08:25"
 }
