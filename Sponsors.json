@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "1ebe0c0a033f11ec98ff52540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/user_upload_osl/892e0bd60c0d2dda4434278c2d30521e_w132_h132_s7.jpeg?imageView2/1/w/120/h/120",
+      "Name": "Paxui",
+      "SponsorshipCount": 1,
+      "TotalMoney": 5.0,
+      "Remarks": "",
+      "CurrentPlan": "迷你月卡"
+    },
+    {
       "UserId": "cb91afb4d71b11efaf2f52540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120",
       "Name": "爱发电用户_cb91a",
@@ -649,5 +658,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2025-02-03 03:06:59"
+  "UpdateTime": "2025-02-03 04:07:10"
 }
