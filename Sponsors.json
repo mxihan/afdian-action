@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "a7966d76237a11eeafd352540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/a7966d76237a11eeafd352540025c377/avatar/08b73486e0fe836b4d4035d880928169_w1900_h1313_s1541.jpeg?imageView2/1/w/120/h/120",
+      "Name": "爱发电用户_5Ep6",
+      "SponsorshipCount": 1,
+      "TotalMoney": 5.0,
+      "Remarks": "",
+      "CurrentPlan": "自选方案"
+    },
+    {
       "UserId": "1ebe0c0a033f11ec98ff52540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/user_upload_osl/892e0bd60c0d2dda4434278c2d30521e_w132_h132_s7.jpeg?imageView2/1/w/120/h/120",
       "Name": "Paxui",
@@ -658,5 +667,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2025-02-03 10:27:14"
+  "UpdateTime": "2025-02-03 11:10:22"
 }
