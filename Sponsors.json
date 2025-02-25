@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "7488d75cf33a11ef9e8252540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/w/120/h/120",
+      "Name": "HuaGuangFR",
+      "SponsorshipCount": 1,
+      "TotalMoney": 33.0,
+      "Remarks": "",
+      "CurrentPlan": "自选Hime卡一张"
+    },
+    {
       "UserId": "cc54dfc2199711eeb5905254001e7c00",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/user_upload_osl/25e4892d879ea75c0202913f6a4424d0_w132_h132_s5.jpeg?imageView2/1/w/120/h/120",
       "Name": "凌辰",
@@ -685,5 +694,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2025-02-25 13:07:47"
+  "UpdateTime": "2025-02-25 14:10:01"
 }
