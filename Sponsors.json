@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "b80817e2f90a11efbb9a52540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120",
+      "Name": "爱发电用户_b8081",
+      "SponsorshipCount": 1,
+      "TotalMoney": 50.0,
+      "Remarks": "",
+      "CurrentPlan": "自选方案"
+    },
+    {
       "UserId": "4bffa76cf90111ef9c8052540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-orange.png?imageView2/1/w/120/h/120",
       "Name": "爱发电用户_UhdN",
@@ -355,10 +364,10 @@
       "UserId": "51f934fcf34311ebbb5252540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/51f934fcf34311ebbb5252540025c377/avatar/2fb90425b342ff2c754b6929709ac98e_w640_h638_s63.jpg?imageView2/1/w/120/h/120",
       "Name": "MoeCaa",
-      "SponsorshipCount": 1,
-      "TotalMoney": 5.0,
+      "SponsorshipCount": 2,
+      "TotalMoney": 125.0,
       "Remarks": "支持下",
-      "CurrentPlan": ""
+      "CurrentPlan": "小月卡"
     },
     {
       "UserId": "182a1952909911efb3ef5254001e7c00",
@@ -928,5 +937,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2025-03-04 23:08:00"
+  "UpdateTime": "2025-03-05 00:09:44"
 }
