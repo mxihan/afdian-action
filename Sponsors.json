@@ -1,6 +1,42 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "e202f8546b7511eb83b552540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/e202f8546b7511eb83b552540025c377/avatar/1117e756ad035048655be346dc636436_w1080_h1080_s506.jpeg?imageView2/1/w/120/h/120",
+      "Name": "-ELEISSS-",
+      "SponsorshipCount": 1,
+      "TotalMoney": 200.0,
+      "Remarks": "想要verse我要闹...",
+      "CurrentPlan": "自选方案"
+    },
+    {
+      "UserId": "13ca01c8c98f11e9afb652540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/13ca01c8c98f11e9afb652540025c377/avatar/e18fb71a83ca4f7558961cf6bbb4320a_w1440_h1440_s789.jpeg?imageView2/1/w/120/h/120",
+      "Name": "Enanan是东云绘名",
+      "SponsorshipCount": 1,
+      "TotalMoney": 30.0,
+      "Remarks": "",
+      "CurrentPlan": "迷你月卡"
+    },
+    {
+      "UserId": "449c53bae5c111ea832552540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/449c53bae5c111ea832552540025c377/avatar/b74870acc4bde6e5980e60046ab357b1_w411_h411_s259.png?imageView2/1/w/120/h/120",
+      "Name": "客服小普",
+      "SponsorshipCount": 1,
+      "TotalMoney": 20.0,
+      "Remarks": "绵薄之力",
+      "CurrentPlan": "大月卡"
+    },
+    {
+      "UserId": "19e6706cf8de11ef989b52540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-yellow.png?imageView2/1/w/120/h/120",
+      "Name": "下北沢案内人",
+      "SponsorshipCount": 2,
+      "TotalMoney": 73.0,
+      "Remarks": "",
+      "CurrentPlan": "迷你月卡"
+    },
+    {
       "UserId": "9ec1e8c8274411efabbe52540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/w/120/h/120",
       "Name": "深爱",
@@ -874,5 +910,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2025-03-04 18:08:11"
+  "UpdateTime": "2025-03-04 20:12:28"
 }
