@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "085627fca9aa11eb84f052540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120",
+      "Name": "爱发电用户_08562",
+      "SponsorshipCount": 1,
+      "TotalMoney": 60.0,
+      "Remarks": "群公告来的，希望ri...",
+      "CurrentPlan": "大月卡"
+    },
+    {
       "UserId": "e202f8546b7511eb83b552540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/e202f8546b7511eb83b552540025c377/avatar/1117e756ad035048655be346dc636436_w1080_h1080_s506.jpeg?imageView2/1/w/120/h/120",
       "Name": "-ELEISSS-",
@@ -218,7 +227,7 @@
     },
     {
       "UserId": "7488d75cf33a11ef9e8252540025c377",
-      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/w/120/h/120",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/7488d75cf33a11ef9e8252540025c377/avatar/c2378aa48f9cdb1f67ddd9e69b8a16b5_w504_h446_s30.jpeg?imageView2/1/w/120/h/120",
       "Name": "HuaGuangFR",
       "SponsorshipCount": 1,
       "TotalMoney": 33.0,
@@ -910,5 +919,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2025-03-04 20:12:28"
+  "UpdateTime": "2025-03-04 21:11:51"
 }
