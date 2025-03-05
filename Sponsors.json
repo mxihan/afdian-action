@@ -1,6 +1,33 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "14001d32f9b111efa6f052540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120",
+      "Name": "爱发电用户_14001",
+      "SponsorshipCount": 1,
+      "TotalMoney": 90.0,
+      "Remarks": "",
+      "CurrentPlan": "至尊月卡"
+    },
+    {
+      "UserId": "cda3b25a82d111ef8cd752540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/cda3b25a82d111ef8cd752540025c377/avatar/e2ceb877de6e0b7269dcc65fb04d6070_w1698_h2300_s657.jpeg?imageView2/1/w/120/h/120",
+      "Name": "愈希",
+      "SponsorshipCount": 1,
+      "TotalMoney": 30.0,
+      "Remarks": "谢谢rin服，因为今...",
+      "CurrentPlan": "小月卡"
+    },
+    {
+      "UserId": "ebcb48104f2811ea806952540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/ebcb48104f2811ea806952540025c377/avatar/288d33c9d7c3352a8f66bd8007df4a61_w848_h598_s50.jpeg?imageView2/1/w/120/h/120",
+      "Name": "黑泽瀑布",
+      "SponsorshipCount": 1,
+      "TotalMoney": 60.0,
+      "Remarks": "别似啊rin",
+      "CurrentPlan": "迷你月卡"
+    },
+    {
       "UserId": "66098f721e3411eaa37b52540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/66098f721e3411eaa37b52540025c377/avatar/36a9026d0066c3f9d0b65f121009ae2f_w600_h338_s24.jpg?imageView2/1/w/120/h/120",
       "Name": "白袜肌肉体育生",
@@ -973,5 +1000,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2025-03-05 18:08:22"
+  "UpdateTime": "2025-03-05 19:06:54"
 }
