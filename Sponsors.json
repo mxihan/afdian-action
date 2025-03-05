@@ -1,6 +1,24 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "66098f721e3411eaa37b52540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/66098f721e3411eaa37b52540025c377/avatar/36a9026d0066c3f9d0b65f121009ae2f_w600_h338_s24.jpg?imageView2/1/w/120/h/120",
+      "Name": "白袜肌肉体育生",
+      "SponsorshipCount": 1,
+      "TotalMoney": 10.0,
+      "Remarks": "",
+      "CurrentPlan": "小月卡"
+    },
+    {
+      "UserId": "d41cb432ac7311ed9bda5254001e7c00",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/d41cb432ac7311ed9bda5254001e7c00/avatar/25fb8d701afec07055d4471f40ab5098_w732_h732_s120.jpeg?imageView2/1/w/120/h/120",
+      "Name": "KenYue",
+      "SponsorshipCount": 1,
+      "TotalMoney": 5.0,
+      "Remarks": "",
+      "CurrentPlan": "迷你月卡"
+    },
+    {
       "UserId": "ce00535e9a5d11efb99452540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/ce00535e9a5d11efb99452540025c377/avatar/79909f91eda0a771d9ad233623903790_w1191_h1440_s306.jpeg?imageView2/1/w/120/h/120",
       "Name": "LounaAtri",
@@ -955,5 +973,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2025-03-05 11:14:37"
+  "UpdateTime": "2025-03-05 13:08:04"
 }
