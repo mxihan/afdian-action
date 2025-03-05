@@ -1,6 +1,24 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "ce00535e9a5d11efb99452540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/ce00535e9a5d11efb99452540025c377/avatar/79909f91eda0a771d9ad233623903790_w1191_h1440_s306.jpeg?imageView2/1/w/120/h/120",
+      "Name": "LounaAtri",
+      "SponsorshipCount": 1,
+      "TotalMoney": 90.0,
+      "Remarks": "",
+      "CurrentPlan": "至尊月卡"
+    },
+    {
+      "UserId": "efce50ecc3a311eb9b9752540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-orange.png?imageView2/1/w/120/h/120",
+      "Name": "AMe",
+      "SponsorshipCount": 1,
+      "TotalMoney": 5.0,
+      "Remarks": "略显微薄，rinne...",
+      "CurrentPlan": "迷你月卡"
+    },
+    {
       "UserId": "b80817e2f90a11efbb9a52540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120",
       "Name": "爱发电用户_b8081",
@@ -937,5 +955,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2025-03-05 07:07:08"
+  "UpdateTime": "2025-03-05 08:31:07"
 }
