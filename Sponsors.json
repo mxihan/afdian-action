@@ -346,8 +346,8 @@
       "UserId": "81bc293469e811edb8d652540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120",
       "Name": "爱发电用户_81bc2",
-      "SponsorshipCount": 1,
-      "TotalMoney": 10.0,
+      "SponsorshipCount": 2,
+      "TotalMoney": 58.0,
       "Remarks": "dp",
       "CurrentPlan": "小月卡"
     },
@@ -1072,5 +1072,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2025-03-06 17:07:55"
+  "UpdateTime": "2025-03-06 19:06:47"
 }
