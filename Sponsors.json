@@ -1,6 +1,60 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "d7c0edacfa3611ef9cbe5254001e7c00",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/w/120/h/120",
+      "Name": "youwu9",
+      "SponsorshipCount": 1,
+      "TotalMoney": 20.0,
+      "Remarks": "rin服加油中果加油",
+      "CurrentPlan": "大月卡"
+    },
+    {
+      "UserId": "150cdfd8fa2b11ef809252540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-blue.png?imageView2/1/w/120/h/120",
+      "Name": "百鬼術式",
+      "SponsorshipCount": 1,
+      "TotalMoney": 10.0,
+      "Remarks": "",
+      "CurrentPlan": "小月卡"
+    },
+    {
+      "UserId": "fd632026e6bb11eb91cc52540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-orange.png?imageView2/1/w/120/h/120",
+      "Name": "明日络",
+      "SponsorshipCount": 1,
+      "TotalMoney": 360.0,
+      "Remarks": "",
+      "CurrentPlan": "至尊月卡"
+    },
+    {
+      "UserId": "596ceb725c6211eeb00b52540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/596ceb725c6211eeb00b52540025c377/avatar/e54512d64bc0ee782db97d8085045406_w640_h640_s35.jpeg?imageView2/1/w/120/h/120",
+      "Name": "Igarashi Choke",
+      "SponsorshipCount": 1,
+      "TotalMoney": 60.0,
+      "Remarks": "",
+      "CurrentPlan": "大月卡"
+    },
+    {
+      "UserId": "11c2e716312b11e984d052540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/11c2e716312b11e984d052540025c377/avatar/087ffd9f59d2b65440d079819f001f58_w960_h960_s60.jpg?imageView2/1/w/120/h/120",
+      "Name": "子芃",
+      "SponsorshipCount": 1,
+      "TotalMoney": 10.0,
+      "Remarks": "",
+      "CurrentPlan": "小月卡"
+    },
+    {
+      "UserId": "e23d8684f1f011eb98e152540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/e23d8684f1f011eb98e152540025c377/avatar/b8c7f5410c90d13f1de7dcb9172f036c_w1080_h2400_s404.jpg?imageView2/1/w/120/h/120",
+      "Name": "一号神秘人",
+      "SponsorshipCount": 1,
+      "TotalMoney": 20.0,
+      "Remarks": "",
+      "CurrentPlan": "大月卡"
+    },
+    {
       "UserId": "ff05c9a8295611eeb87352540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-orange.png?imageView2/1/w/120/h/120",
       "Name": "爱发电用户_jPpM",
@@ -1018,5 +1072,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2025-03-06 08:31:18"
+  "UpdateTime": "2025-03-06 11:15:05"
 }
