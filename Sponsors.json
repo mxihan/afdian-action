@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "1e31dd8ac17811ee9c9352540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/1e31dd8ac17811ee9c9352540025c377/avatar/9ff640f43b678a63290fed450caeb33b_w1736_h2048_s272.jpeg?imageView2/1/w/120/h/120",
+      "Name": "幻光",
+      "SponsorshipCount": 1,
+      "TotalMoney": 90.0,
+      "Remarks": "喵w",
+      "CurrentPlan": "至尊月卡"
+    },
+    {
       "UserId": "d7c0edacfa3611ef9cbe5254001e7c00",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/w/120/h/120",
       "Name": "youwu9",
@@ -1072,5 +1081,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2025-03-07 07:07:36"
+  "UpdateTime": "2025-03-07 08:31:22"
 }
