@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "b2fb5d32fc3311efa0e55254001e7c00",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/b2fb5d32fc3311efa0e55254001e7c00/avatar/28c8918f9be249b40baba41db7310975_w778_h778_s103.jpeg?imageView2/1/w/120/h/120",
+      "Name": "okaaili",
+      "SponsorshipCount": 1,
+      "TotalMoney": 90.0,
+      "Remarks": "加油！做得更好，做大...",
+      "CurrentPlan": "至尊月卡"
+    },
+    {
       "UserId": "30a40010acae11eb817552540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-blue.png?imageView2/1/w/120/h/120",
       "Name": "爱发电用户_3RJT",
@@ -1099,5 +1108,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2025-03-08 23:06:33"
+  "UpdateTime": "2025-03-09 00:07:07"
 }
