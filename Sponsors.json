@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "792af5dcd0da11eb9fa252540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-yellow.png?imageView2/1/w/120/h/120",
+      "Name": "悿絡",
+      "SponsorshipCount": 1,
+      "TotalMoney": 20.0,
+      "Remarks": "投喂keai",
+      "CurrentPlan": "大月卡"
+    },
+    {
       "UserId": "66de60708fa911eb95bf52540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/66de60708fa911eb95bf52540025c377/avatar/8829600356b5da54f88c0c3c4373b5ee_w700_h700_s109.jpeg?imageView2/1/w/120/h/120",
       "Name": "一只会狗叫的狗",
@@ -1126,5 +1135,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2025-03-12 10:31:48"
+  "UpdateTime": "2025-03-12 11:15:09"
 }
