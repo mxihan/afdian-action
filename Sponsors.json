@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "bc6f9e72017011f080c85254001e7c00",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/bc6f9e72017011f080c85254001e7c00/avatar/6bdbf70ec3da3d681a6f67db2291863c_w2048_h1588_s3466.png?imageView2/1/w/120/h/120",
+      "Name": "卡洛林",
+      "SponsorshipCount": 1,
+      "TotalMoney": 128.0,
+      "Remarks": "ID: 100008...",
+      "CurrentPlan": "CardMaker卡片"
+    },
+    {
       "UserId": "792af5dcd0da11eb9fa252540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-yellow.png?imageView2/1/w/120/h/120",
       "Name": "悿絡",
@@ -1135,5 +1144,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2025-03-15 15:07:12"
+  "UpdateTime": "2025-03-15 16:08:53"
 }
