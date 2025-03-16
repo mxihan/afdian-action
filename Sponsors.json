@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "72e4604afd8211efb3145254001e7c00",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120",
+      "Name": "爱发电用户_72e46",
+      "SponsorshipCount": 1,
+      "TotalMoney": 60.0,
+      "Remarks": "好玩，献上季卡:)",
+      "CurrentPlan": "大月卡"
+    },
+    {
       "UserId": "bc6f9e72017011f080c85254001e7c00",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/bc6f9e72017011f080c85254001e7c00/avatar/6bdbf70ec3da3d681a6f67db2291863c_w2048_h1588_s3466.png?imageView2/1/w/120/h/120",
       "Name": "卡洛林",
@@ -1144,5 +1153,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2025-03-16 14:09:00"
+  "UpdateTime": "2025-03-16 15:07:11"
 }
