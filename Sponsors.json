@@ -472,9 +472,9 @@
       "UserId": "7488d75cf33a11ef9e8252540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/7488d75cf33a11ef9e8252540025c377/avatar/c2378aa48f9cdb1f67ddd9e69b8a16b5_w504_h446_s30.jpeg?imageView2/1/w/120/h/120",
       "Name": "HuaGuangFR",
-      "SponsorshipCount": 2,
-      "TotalMoney": 43.0,
-      "Remarks": "",
+      "SponsorshipCount": 3,
+      "TotalMoney": 53.0,
+      "Remarks": "CT8_202503",
       "CurrentPlan": "小月卡"
     },
     {
@@ -1162,5 +1162,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2025-03-21 18:08:18"
+  "UpdateTime": "2025-03-21 19:06:42"
 }
