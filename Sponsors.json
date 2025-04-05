@@ -115,7 +115,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 20.0,
       "Remarks": "rin服加油中果加油",
-      "CurrentPlan": "大月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "150cdfd8fa2b11ef809252540025c377",
@@ -124,7 +124,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 10.0,
       "Remarks": "",
-      "CurrentPlan": "小月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "fd632026e6bb11eb91cc52540025c377",
@@ -151,7 +151,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 10.0,
       "Remarks": "",
-      "CurrentPlan": "小月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "e23d8684f1f011eb98e152540025c377",
@@ -160,7 +160,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 20.0,
       "Remarks": "",
-      "CurrentPlan": "大月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "ff05c9a8295611eeb87352540025c377",
@@ -520,7 +520,7 @@
       "SponsorshipCount": 2,
       "TotalMoney": 10.0,
       "Remarks": "",
-      "CurrentPlan": "自选方案"
+      "CurrentPlan": ""
     },
     {
       "UserId": "1ebe0c0a033f11ec98ff52540025c377",
@@ -1180,5 +1180,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2025-04-05 23:06:34"
+  "UpdateTime": "2025-04-06 00:07:45"
 }
