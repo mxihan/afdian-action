@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "e66677fe52ee11efafe75254001e7c00",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/w/120/h/120",
+      "Name": "celi",
+      "SponsorshipCount": 1,
+      "TotalMoney": 60.0,
+      "Remarks": "",
+      "CurrentPlan": "大月卡"
+    },
+    {
       "UserId": "e37d9bf20d0211f0aa1152540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/e37d9bf20d0211f0aa1152540025c377/avatar/71bfb7ba434ac06614652fecd0941e7d_w2000_h2000_s3195.png?imageView2/1/w/120/h/120",
       "Name": "none365",
@@ -1180,5 +1189,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2025-04-06 08:35:12"
+  "UpdateTime": "2025-04-06 09:35:09"
 }
