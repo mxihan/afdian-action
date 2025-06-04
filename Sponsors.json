@@ -322,7 +322,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 60.0,
       "Remarks": "群公告来的，希望ri...",
-      "CurrentPlan": "大月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "e202f8546b7511eb83b552540025c377",
@@ -358,7 +358,7 @@
       "SponsorshipCount": 2,
       "TotalMoney": 73.0,
       "Remarks": "",
-      "CurrentPlan": "迷你月卡"
+      "CurrentPlan": "自选Hime卡一张"
     },
     {
       "UserId": "9ec1e8c8274411efabbe52540025c377",
@@ -394,7 +394,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 60.0,
       "Remarks": "",
-      "CurrentPlan": "大月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "530d4b3cf8d311efae4852540025c377",
@@ -403,7 +403,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 90.0,
       "Remarks": "噢噢噢哦哦祝顺利！",
-      "CurrentPlan": "至尊月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "3a52c6601a0d11ec9d4b52540025c377",
@@ -529,7 +529,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 60.0,
       "Remarks": "🐢forever",
-      "CurrentPlan": "大月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "21141a122ab811ecae6152540025c377",
@@ -1234,5 +1234,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2025-06-04 23:22:21"
+  "UpdateTime": "2025-06-05 00:09:06"
 }
