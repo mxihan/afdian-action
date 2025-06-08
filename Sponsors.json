@@ -133,7 +133,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 90.0,
       "Remarks": "加油！做得更好，做大...",
-      "CurrentPlan": "至尊月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "30a40010acae11eb817552540025c377",
@@ -1234,5 +1234,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2025-06-08 23:07:11"
+  "UpdateTime": "2025-06-09 00:08:29"
 }
