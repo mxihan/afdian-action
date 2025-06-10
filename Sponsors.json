@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "c2ccf708960611ebba7e52540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/c2ccf708960611ebba7e52540025c377/avatar/d1c0d2f7c4e14274259ce87fec219435_w512_h512_s353.png?imageView2/1/w/120/h/120",
+      "Name": "AzusaMoe",
+      "SponsorshipCount": 1,
+      "TotalMoney": 5.0,
+      "Remarks": "",
+      "CurrentPlan": "迷你月卡"
+    },
+    {
       "UserId": "364d04a84c5311edbea752540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/w/120/h/120",
       "Name": "VibEuss",
@@ -1243,5 +1252,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2025-06-10 09:36:49"
+  "UpdateTime": "2025-06-10 10:39:15"
 }
