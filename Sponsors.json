@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "aaacbc166aa211efb32f5254001e7c00",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-yellow.png?imageView2/1/w/120/h/120",
+      "Name": "爱发电用户_6PEx",
+      "SponsorshipCount": 1,
+      "TotalMoney": 10.0,
+      "Remarks": "",
+      "CurrentPlan": "自选方案"
+    },
+    {
       "UserId": "c2ccf708960611ebba7e52540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/c2ccf708960611ebba7e52540025c377/avatar/d1c0d2f7c4e14274259ce87fec219435_w512_h512_s353.png?imageView2/1/w/120/h/120",
       "Name": "AzusaMoe",
@@ -1252,5 +1261,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2025-06-15 12:15:01"
+  "UpdateTime": "2025-06-15 14:10:21"
 }
