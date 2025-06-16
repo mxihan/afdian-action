@@ -115,7 +115,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 60.0,
       "Remarks": "好玩，献上季卡:)",
-      "CurrentPlan": "大月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "bc6f9e72017011f080c85254001e7c00",
@@ -1261,5 +1261,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2025-06-16 23:08:36"
+  "UpdateTime": "2025-06-17 00:09:41"
 }
