@@ -1042,7 +1042,7 @@
       "SponsorshipCount": 4,
       "TotalMoney": 480.0,
       "Remarks": "1111",
-      "CurrentPlan": "自选方案"
+      "CurrentPlan": ""
     },
     {
       "UserId": "e10adddaf25a11ee924052540025c377",
@@ -1261,5 +1261,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2025-07-05 23:07:07"
+  "UpdateTime": "2025-07-06 00:08:33"
 }
