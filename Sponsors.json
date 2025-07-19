@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "e8ddb86cb52c11ef9c6652540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/e8ddb86cb52c11ef9c6652540025c377/avatar/5e4e54a467a11ed0f7a2fc82de8a859e_w494_h494_s423.png?imageView2/1/w/120/h/120",
+      "Name": "Jarrett Ye",
+      "SponsorshipCount": 1,
+      "TotalMoney": 60.0,
+      "Remarks": "",
+      "CurrentPlan": "大月卡"
+    },
+    {
       "UserId": "aaacbc166aa211efb32f5254001e7c00",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-yellow.png?imageView2/1/w/120/h/120",
       "Name": "爱发电用户_6PEx",
@@ -1261,5 +1270,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2025-07-19 12:15:33"
+  "UpdateTime": "2025-07-19 13:10:15"
 }
