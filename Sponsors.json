@@ -1075,10 +1075,10 @@
       "UserId": "7f4b603442da11eba5ed52540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/7f4b603442da11eba5ed52540025c377/avatar/568a60c788beff8a959be7ac4e2c1821_w250_h168_s34.png?imageView2/1/w/120/h/120",
       "Name": "宁曦",
-      "SponsorshipCount": 1,
-      "TotalMoney": 15.0,
+      "SponsorshipCount": 2,
+      "TotalMoney": 45.0,
       "Remarks": "",
-      "CurrentPlan": ""
+      "CurrentPlan": "迷你月卡"
     },
     {
       "UserId": "c488171ef25911eea8bc52540025c377",
@@ -1279,5 +1279,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2025-09-04 14:11:12"
+  "UpdateTime": "2025-09-04 15:08:15"
 }
