@@ -385,7 +385,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 30.0,
       "Remarks": "",
-      "CurrentPlan": "迷你月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "449c53bae5c111ea832552540025c377",
@@ -529,7 +529,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 30.0,
       "Remarks": "绵薄之力",
-      "CurrentPlan": "迷你月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "1fcbec227a8e11ec8f2952540025c377",
@@ -538,7 +538,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 60.0,
       "Remarks": "",
-      "CurrentPlan": "小月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "b5186f1ef8ce11efb64c52540025c377",
@@ -1096,7 +1096,7 @@
       "SponsorshipCount": 3,
       "TotalMoney": 150.0,
       "Remarks": "",
-      "CurrentPlan": "小月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "717eec90c96e11eaba3452540025c377",
@@ -1279,5 +1279,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2025-09-05 23:08:16"
+  "UpdateTime": "2025-09-06 00:08:37"
 }
