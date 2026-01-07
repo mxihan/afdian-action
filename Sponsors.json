@@ -376,7 +376,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 50.0,
       "Remarks": "",
-      "CurrentPlan": "自选方案"
+      "CurrentPlan": ""
     },
     {
       "UserId": "4bffa76cf90111ef9c8052540025c377",
@@ -1231,7 +1231,7 @@
       "SponsorshipCount": 2,
       "TotalMoney": 110.0,
       "Remarks": "疯狂星期四分期支付",
-      "CurrentPlan": "迷你月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "8a459ef2b44f11ee933952540025c377",
@@ -1306,5 +1306,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2026-01-07 23:10:15"
+  "UpdateTime": "2026-01-08 00:11:57"
 }
