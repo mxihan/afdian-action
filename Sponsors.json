@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "8d7495aad07511e9825552540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/8d7495aad07511e9825552540025c377/avatar/729fa37f44e0f82efd4b74438a83e6dd_w4000_h3000_s3646.jpg?imageView2/1/w/120/h/120",
+      "Name": "月零YueLingM",
+      "SponsorshipCount": 1,
+      "TotalMoney": 90.0,
+      "Remarks": "加油",
+      "CurrentPlan": "至尊月卡"
+    },
+    {
       "UserId": "b2313e646dde11ef8ab55254001e7c00",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-blue.png?imageView2/1/w/120/h/120",
       "Name": "c",
@@ -1324,5 +1333,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2026-03-01 15:19:49"
+  "UpdateTime": "2026-03-01 16:13:31"
 }
