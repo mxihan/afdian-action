@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "73efc2580e2c11eb988a52540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-orange.png?imageView2/1/w/120/h/120",
+      "Name": "aries667",
+      "SponsorshipCount": 1,
+      "TotalMoney": 10.0,
+      "Remarks": "",
+      "CurrentPlan": "小月卡"
+    },
+    {
       "UserId": "8d7495aad07511e9825552540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/8d7495aad07511e9825552540025c377/avatar/729fa37f44e0f82efd4b74438a83e6dd_w4000_h3000_s3646.jpg?imageView2/1/w/120/h/120",
       "Name": "月零YueLingM",
@@ -1333,5 +1342,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2026-03-02 18:23:32"
+  "UpdateTime": "2026-03-02 19:20:01"
 }
