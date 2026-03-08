@@ -1,6 +1,42 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "c1cf72e01acc11f1b4d352540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/w/120/h/120",
+      "Name": "neo",
+      "SponsorshipCount": 1,
+      "TotalMoney": 5.0,
+      "Remarks": "😍",
+      "CurrentPlan": "迷你月卡"
+    },
+    {
+      "UserId": "44661cf61acb11f1906a5254001e7c00",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-yellow.png?imageView2/1/w/120/h/120",
+      "Name": "爱发电用户_73be",
+      "SponsorshipCount": 1,
+      "TotalMoney": 20.0,
+      "Remarks": "",
+      "CurrentPlan": "大月卡"
+    },
+    {
+      "UserId": "b665800e1aca11f1b76852540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-orange.png?imageView2/1/w/120/h/120",
+      "Name": "爱发电用户_wbsv",
+      "SponsorshipCount": 1,
+      "TotalMoney": 120.0,
+      "Remarks": "一路顺风",
+      "CurrentPlan": "大月卡"
+    },
+    {
+      "UserId": "4c33dc9841d611ecaf1b52540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/4c33dc9841d611ecaf1b52540025c377/avatar/de79b1a7b2079ed87f43ab4426537cbe_w1020_h1020_s246.jpeg?imageView2/1/w/120/h/120",
+      "Name": "蓝色彗星",
+      "SponsorshipCount": 1,
+      "TotalMoney": 90.0,
+      "Remarks": "",
+      "CurrentPlan": "至尊月卡"
+    },
+    {
       "UserId": "73efc2580e2c11eb988a52540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-orange.png?imageView2/1/w/120/h/120",
       "Name": "aries667",
@@ -1342,5 +1378,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2026-03-08 16:13:05"
+  "UpdateTime": "2026-03-08 17:12:40"
 }
