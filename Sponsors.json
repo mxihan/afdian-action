@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "a1de16ca6a7e11eb9fb252540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/a1de16ca6a7e11eb9fb252540025c377/avatar/90e455b174a6b58ac394c2dca3f67f98_w2048_h2048_s4474.png?imageView2/1/w/120/h/120",
+      "Name": "MetEor",
+      "SponsorshipCount": 1,
+      "TotalMoney": 60.0,
+      "Remarks": "",
+      "CurrentPlan": "小月卡"
+    },
+    {
       "UserId": "60479684394411f0a86f52540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-orange.png?imageView2/1/w/120/h/120",
       "Name": "lxyfather",
@@ -1423,5 +1432,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2026-03-09 12:42:45"
+  "UpdateTime": "2026-03-09 13:32:30"
 }
