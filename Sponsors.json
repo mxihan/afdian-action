@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "86e407e81f7a11f0a0eb52540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/86e407e81f7a11f0a0eb52540025c377/avatar/f01b82d9f58c5cade61a382cf6149ee6_w600_h600_s355.jpeg?imageView2/1/w/120/h/120",
+      "Name": "電子雪",
+      "SponsorshipCount": 1,
+      "TotalMoney": 90.0,
+      "Remarks": "",
+      "CurrentPlan": "至尊月卡"
+    },
+    {
       "UserId": "a1de16ca6a7e11eb9fb252540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/a1de16ca6a7e11eb9fb252540025c377/avatar/90e455b174a6b58ac394c2dca3f67f98_w2048_h2048_s4474.png?imageView2/1/w/120/h/120",
       "Name": "MetEor",
@@ -1432,5 +1441,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2026-03-13 00:30:02"
+  "UpdateTime": "2026-03-13 01:24:06"
 }
