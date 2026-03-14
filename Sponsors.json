@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "2106f430330f11ed988452540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/2106f430330f11ed988452540025c377/avatar/b873f9626293e9386b1b8f5cc500baeb_w900_h1600_s566.jpg?imageView2/1/w/120/h/120",
+      "Name": "咖啡的鱼鱼鱼",
+      "SponsorshipCount": 1,
+      "TotalMoney": 450.0,
+      "Remarks": "祝越办越好❤️",
+      "CurrentPlan": "自选方案"
+    },
+    {
       "UserId": "86e407e81f7a11f0a0eb52540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/86e407e81f7a11f0a0eb52540025c377/avatar/f01b82d9f58c5cade61a382cf6149ee6_w600_h600_s355.jpeg?imageView2/1/w/120/h/120",
       "Name": "電子雪",
@@ -1441,5 +1450,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2026-03-14 11:04:42"
+  "UpdateTime": "2026-03-14 13:25:46"
 }
