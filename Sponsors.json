@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "f7d9e3f4d2ad11ec990b52540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-yellow.png?imageView2/1/w/120/h/120",
+      "Name": "Bill",
+      "SponsorshipCount": 1,
+      "TotalMoney": 50.0,
+      "Remarks": "来自WOAOL项目组...",
+      "CurrentPlan": "自选方案"
+    },
+    {
       "UserId": "2106f430330f11ed988452540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/2106f430330f11ed988452540025c377/avatar/b873f9626293e9386b1b8f5cc500baeb_w900_h1600_s566.jpg?imageView2/1/w/120/h/120",
       "Name": "咖啡的鱼鱼鱼",
@@ -1450,5 +1459,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2026-03-16 14:43:08"
+  "UpdateTime": "2026-03-16 15:38:17"
 }
