@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "bc958bb024af11f1b1eb5254001e7c00",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/w/120/h/120",
+      "Name": "爱发电用户_KEDQ",
+      "SponsorshipCount": 1,
+      "TotalMoney": 5.0,
+      "Remarks": "幸苦了",
+      "CurrentPlan": "自选方案"
+    },
+    {
       "UserId": "f7d9e3f4d2ad11ec990b52540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-yellow.png?imageView2/1/w/120/h/120",
       "Name": "Bill",
@@ -1459,5 +1468,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2026-03-21 06:11:51"
+  "UpdateTime": "2026-03-21 07:12:57"
 }
