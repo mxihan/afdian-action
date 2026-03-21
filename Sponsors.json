@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "ed31441c812611eba5e152540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-blue.png?imageView2/1/w/120/h/120",
+      "Name": "2637153043",
+      "SponsorshipCount": 1,
+      "TotalMoney": 200.0,
+      "Remarks": "",
+      "CurrentPlan": "自选方案"
+    },
+    {
       "UserId": "782d1d3ce4c411ecbe0b52540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/782d1d3ce4c411ecbe0b52540025c377/avatar/11443f272fd92a9a24d13db4de8d6616_w1260_h2800_s1450.jpeg?imageView2/1/w/120/h/120",
       "Name": "Ibuki Suica",
@@ -1477,5 +1486,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2026-03-21 09:39:52"
+  "UpdateTime": "2026-03-21 11:02:34"
 }
