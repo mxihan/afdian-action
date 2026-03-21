@@ -742,10 +742,10 @@
       "UserId": "4f56bd64f8d011efa95352540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/4f56bd64f8d011efa95352540025c377/avatar/8eaf055f01a875eaf5074a5933e8e72f_w542_h430_s65.jpeg?imageView2/1/w/120/h/120",
       "Name": "皮皮猪",
-      "SponsorshipCount": 1,
-      "TotalMoney": 100.0,
-      "Remarks": "",
-      "CurrentPlan": ""
+      "SponsorshipCount": 2,
+      "TotalMoney": 200.0,
+      "Remarks": "Ciallo～(∠・...",
+      "CurrentPlan": "自选方案"
     },
     {
       "UserId": "dc4927c6f8cf11ef9db752540025c377",
@@ -1522,5 +1522,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2026-03-22 00:11:57"
+  "UpdateTime": "2026-03-22 01:10:44"
 }
