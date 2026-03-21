@@ -814,10 +814,10 @@
       "UserId": "cc54dfc2199711eeb5905254001e7c00",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/user_upload_osl/25e4892d879ea75c0202913f6a4424d0_w132_h132_s5.jpeg?imageView2/1/w/120/h/120",
       "Name": "凌辰",
-      "SponsorshipCount": 1,
-      "TotalMoney": 5.0,
+      "SponsorshipCount": 2,
+      "TotalMoney": 10.0,
       "Remarks": "",
-      "CurrentPlan": ""
+      "CurrentPlan": "迷你月卡"
     },
     {
       "UserId": "82121cfce94a11ef9a9c52540025c377",
@@ -1495,5 +1495,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2026-03-21 17:13:55"
+  "UpdateTime": "2026-03-21 18:11:08"
 }
