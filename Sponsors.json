@@ -1,6 +1,24 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "544b005a993811ecb31552540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/w/120/h/120",
+      "Name": "爱发电用户_GS6w",
+      "SponsorshipCount": 1,
+      "TotalMoney": 20.0,
+      "Remarks": "rin服加油，我最爱...",
+      "CurrentPlan": "大月卡"
+    },
+    {
+      "UserId": "f32a1b8027f411f1a0bc52540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120",
+      "Name": "爱发电用户_f32a1",
+      "SponsorshipCount": 1,
+      "TotalMoney": 50.0,
+      "Remarks": "感谢rinnet陪伴...",
+      "CurrentPlan": "自选方案"
+    },
+    {
       "UserId": "169fbe22e58411eea8ad5254001e7c00",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120",
       "Name": "爱发电用户_169fb",
@@ -238,10 +256,10 @@
       "UserId": "56340a8875f711ecaf2c52540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/user_upload_osl/e5f443cf60c495d4974ce89d0d3e91ad_w132_h132_s4.jpeg?imageView2/1/w/120/h/120",
       "Name": "Endlessbox",
-      "SponsorshipCount": 1,
-      "TotalMoney": 5.0,
+      "SponsorshipCount": 2,
+      "TotalMoney": 95.0,
       "Remarks": "什么时候能更新一下网...",
-      "CurrentPlan": ""
+      "CurrentPlan": "至尊月卡"
     },
     {
       "UserId": "b43284c84d1211ed926352540025c377",
@@ -1522,5 +1540,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2026-03-25 09:41:32"
+  "UpdateTime": "2026-03-25 11:11:40"
 }
