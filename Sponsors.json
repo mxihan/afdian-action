@@ -1,9 +1,27 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "f2d8ebf2339111eebdd252540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-yellow.png?imageView2/1/w/120/h/120",
+      "Name": "爱发电用户_CjgB",
+      "SponsorshipCount": 1,
+      "TotalMoney": 10.0,
+      "Remarks": "加油",
+      "CurrentPlan": "小月卡"
+    },
+    {
+      "UserId": "0887b4c427f511f1a14852540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/0887b4c427f511f1a14852540025c377/avatar/5cb6a210e7445651d977f52647c6f30c_w1084_h1081_s581.jpeg?imageView2/1/w/120/h/120",
+      "Name": "肖默",
+      "SponsorshipCount": 1,
+      "TotalMoney": 20.0,
+      "Remarks": "Rin服加油，继续做...",
+      "CurrentPlan": "大月卡"
+    },
+    {
       "UserId": "544b005a993811ecb31552540025c377",
-      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/w/120/h/120",
-      "Name": "爱发电用户_GS6w",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/544b005a993811ecb31552540025c377/avatar/a315a4ff0c4e79b5f568d3aaaff8d045_w2894_h4093_s1195.jpeg?imageView2/1/w/120/h/120",
+      "Name": "Gh0sT",
       "SponsorshipCount": 1,
       "TotalMoney": 20.0,
       "Remarks": "rin服加油，我最爱...",
@@ -220,10 +238,10 @@
       "UserId": "b2313e646dde11ef8ab55254001e7c00",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-blue.png?imageView2/1/w/120/h/120",
       "Name": "c",
-      "SponsorshipCount": 1,
-      "TotalMoney": 20.0,
+      "SponsorshipCount": 2,
+      "TotalMoney": 30.0,
       "Remarks": "",
-      "CurrentPlan": "大月卡"
+      "CurrentPlan": "至尊月卡"
     },
     {
       "UserId": "7fc19660e3be11ec938252540025c377",
@@ -857,7 +875,7 @@
     },
     {
       "UserId": "cc54dfc2199711eeb5905254001e7c00",
-      "AvatarUrl": "https://pic1.afdiancdn.com/user/user_upload_osl/25e4892d879ea75c0202913f6a4424d0_w132_h132_s5.jpeg?imageView2/1/w/120/h/120",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/cc54dfc2199711eeb5905254001e7c00/avatar/5bb925ca35fc36c2e8a4e71529725fea_w1296_h1285_s742.jpeg?imageView2/1/w/120/h/120",
       "Name": "凌辰",
       "SponsorshipCount": 2,
       "TotalMoney": 10.0,
@@ -1273,10 +1291,10 @@
       "UserId": "34a853d4eeb011eba9b052540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/34a853d4eeb011eba9b052540025c377/avatar/a64bf56d6bbe95464c5a36ed0071b3de_w665_h664_s79.jpg?imageView2/1/w/120/h/120",
       "Name": "Ashrend",
-      "SponsorshipCount": 1,
-      "TotalMoney": 30.0,
+      "SponsorshipCount": 2,
+      "TotalMoney": 60.0,
       "Remarks": "",
-      "CurrentPlan": ""
+      "CurrentPlan": "至尊月卡"
     },
     {
       "UserId": "d62f9acef28511eea7405254001e7c00",
@@ -1540,5 +1558,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2026-03-25 11:11:40"
+  "UpdateTime": "2026-03-25 12:45:23"
 }
