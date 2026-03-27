@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "6ffb943872a411f09d9f5254001e7c00",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/w/120/h/120",
+      "Name": "Keiki",
+      "SponsorshipCount": 1,
+      "TotalMoney": 10.0,
+      "Remarks": "",
+      "CurrentPlan": "小月卡"
+    },
+    {
       "UserId": "a53b1f2e409c11eead2e5254001e7c00",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/a53b1f2e409c11eead2e5254001e7c00/avatar/ef74865ad593591e656e50a2071c95b9_w492_h492_s91.png?imageView2/1/w/120/h/120",
       "Name": "Ibuki Suika",
@@ -1585,5 +1594,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2026-03-27 23:23:28"
+  "UpdateTime": "2026-03-28 01:23:23"
 }
