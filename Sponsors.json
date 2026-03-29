@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "dc343b6a765e11f0a0b35254001e7c00",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/dc343b6a765e11f0a0b35254001e7c00/avatar/2ad8b61d724d6c46b46ac84eca66bcad_w430_h427_s237.png?imageView2/1/w/120/h/120",
+      "Name": "Bobz",
+      "SponsorshipCount": 1,
+      "TotalMoney": 180.0,
+      "Remarks": "来补票了 希望Rin...",
+      "CurrentPlan": "至尊月卡"
+    },
+    {
       "UserId": "6ffb943872a411f09d9f5254001e7c00",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/w/120/h/120",
       "Name": "Keiki",
@@ -1594,5 +1603,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2026-03-29 15:28:40"
+  "UpdateTime": "2026-03-29 16:19:26"
 }
