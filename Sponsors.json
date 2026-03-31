@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "7c224e928fdb11eb9df452540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/w/120/h/120",
+      "Name": "DRMus2000",
+      "SponsorshipCount": 1,
+      "TotalMoney": 60.0,
+      "Remarks": "",
+      "CurrentPlan": "大月卡"
+    },
+    {
       "UserId": "dc343b6a765e11f0a0b35254001e7c00",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/dc343b6a765e11f0a0b35254001e7c00/avatar/2ad8b61d724d6c46b46ac84eca66bcad_w430_h427_s237.png?imageView2/1/w/120/h/120",
       "Name": "Bobz",
@@ -1603,5 +1612,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2026-03-31 15:37:43"
+  "UpdateTime": "2026-03-31 16:33:03"
 }
