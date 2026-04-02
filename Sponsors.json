@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "709fd61c99e211ed99125254001e7c00",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-yellow.png?imageView2/1/w/120/h/120",
+      "Name": "神异",
+      "SponsorshipCount": 1,
+      "TotalMoney": 30.0,
+      "Remarks": "",
+      "CurrentPlan": "至尊月卡"
+    },
+    {
       "UserId": "4c26cc1abc4411efa06852540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-yellow.png?imageView2/1/w/120/h/120",
       "Name": "2h0n9xiA",
@@ -301,10 +310,10 @@
       "UserId": "b2313e646dde11ef8ab55254001e7c00",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-blue.png?imageView2/1/w/120/h/120",
       "Name": "c",
-      "SponsorshipCount": 2,
-      "TotalMoney": 30.0,
+      "SponsorshipCount": 3,
+      "TotalMoney": 60.0,
       "Remarks": "",
-      "CurrentPlan": ""
+      "CurrentPlan": "至尊月卡"
     },
     {
       "UserId": "7fc19660e3be11ec938252540025c377",
@@ -1621,5 +1630,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2026-04-02 16:30:31"
+  "UpdateTime": "2026-04-02 18:26:50"
 }
