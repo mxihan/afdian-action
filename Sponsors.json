@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "fb30040430fd11f1846252540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-blue.png?imageView2/1/w/120/h/120",
+      "Name": "Arkadia",
+      "SponsorshipCount": 1,
+      "TotalMoney": 120.0,
+      "Remarks": "",
+      "CurrentPlan": "小月卡"
+    },
+    {
       "UserId": "2c61c5d4bd2211ec934652540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/user_upload_osl/a2b308b80a65599b8641efa8991e2d36_w132_h132_s4.jpeg?imageView2/1/w/120/h/120",
       "Name": "南清",
@@ -1639,5 +1648,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2026-04-05 21:29:17"
+  "UpdateTime": "2026-04-05 23:15:26"
 }
