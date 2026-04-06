@@ -1,0 +1,3 @@
+[submodule "libs/Afdian.Sdk"]
+	path = libs/Afdian.Sdk
+	url = https://github.com/mxihan/Afdian.Sdk.git
