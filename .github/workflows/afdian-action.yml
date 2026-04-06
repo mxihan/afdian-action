@@ -19,7 +19,7 @@ jobs:
           submodules: recursive
 
       - name: Afdian action
-        uses: mxihan/afdian-action@main
+        uses: ./
         with:
           # 在 Settings->Secrets 配置 AFDIAN_USERID, AFDIAN_TOKEN
           # 爱发电 user_id
