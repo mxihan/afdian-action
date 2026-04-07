@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "b69610927a5a11ee8ed05254001e7c00",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/user_upload_osl/d75604881d48bd1f0c3c6dda8a288da5_w132_h132_s5.jpeg?imageView2/1/w/120/h/120",
+      "Name": "Akane",
+      "SponsorshipCount": 1,
+      "TotalMoney": 30.0,
+      "Remarks": "",
+      "CurrentPlan": "小月卡"
+    },
+    {
       "UserId": "7bb3fd307c1011ecaac952540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-blue.png?imageView2/1/w/120/h/120",
       "Name": "送你一朵小蓝花",
@@ -1675,5 +1684,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2026-04-07 21:38:53"
+  "UpdateTime": "2026-04-07 23:37:19"
 }
