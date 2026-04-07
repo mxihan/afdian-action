@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "7bb3fd307c1011ecaac952540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-blue.png?imageView2/1/w/120/h/120",
+      "Name": "送你一朵小蓝花",
+      "SponsorshipCount": 1,
+      "TotalMoney": 90.0,
+      "Remarks": "我应当支付你维持服务...",
+      "CurrentPlan": "至尊月卡"
+    },
+    {
       "UserId": "bbbccf44629811ea8d8452540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-orange.png?imageView2/1/w/120/h/120",
       "Name": "MinosLiner",
@@ -1666,5 +1675,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2026-04-07 16:36:40"
+  "UpdateTime": "2026-04-07 17:33:01"
 }
