@@ -277,7 +277,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 5.0,
       "Remarks": "期待自己一日上虹）",
-      "CurrentPlan": "自选方案"
+      "CurrentPlan": ""
     },
     {
       "UserId": "9c38b1661ad811f1a4395254001e7c00",
@@ -286,7 +286,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 50.0,
       "Remarks": "",
-      "CurrentPlan": "自选方案"
+      "CurrentPlan": ""
     },
     {
       "UserId": "eb3758eeec5c11ebb35752540025c377",
@@ -313,7 +313,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 5.0,
       "Remarks": "😍",
-      "CurrentPlan": "迷你月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "44661cf61acb11f1906a5254001e7c00",
@@ -322,7 +322,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 20.0,
       "Remarks": "",
-      "CurrentPlan": "大月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "b665800e1aca11f1b76852540025c377",
@@ -826,7 +826,7 @@
       "SponsorshipCount": 2,
       "TotalMoney": 10.0,
       "Remarks": "",
-      "CurrentPlan": "迷你月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "1f851e2255b011ebb1dd52540025c377",
@@ -1684,5 +1684,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2026-04-07 23:37:19"
+  "UpdateTime": "2026-04-08 00:30:28"
 }
