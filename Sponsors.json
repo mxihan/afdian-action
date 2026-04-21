@@ -916,7 +916,7 @@
       "SponsorshipCount": 2,
       "TotalMoney": 200.0,
       "Remarks": "Ciallo～(∠・...",
-      "CurrentPlan": "自选方案"
+      "CurrentPlan": ""
     },
     {
       "UserId": "dc4927c6f8cf11ef9db752540025c377",
@@ -1693,5 +1693,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2026-04-21 22:42:14"
+  "UpdateTime": "2026-04-22 00:31:49"
 }
