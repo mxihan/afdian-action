@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "7a2eb860ef7011eb839252540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/w/120/h/120",
+      "Name": "dreay",
+      "SponsorshipCount": 1,
+      "TotalMoney": 10.0,
+      "Remarks": "能不能传一下paro...",
+      "CurrentPlan": "自选方案"
+    },
+    {
       "UserId": "bca5c60ac74711eea21b52540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/user_upload_osl/d51181a0f9281694777c322ed5e0fe21_w132_h132_s4.jpeg?imageView2/1/w/120/h/120",
       "Name": "Thursday",
@@ -1711,5 +1720,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2026-04-28 11:17:24"
+  "UpdateTime": "2026-04-28 13:15:50"
 }
