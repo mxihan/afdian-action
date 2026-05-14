@@ -34,7 +34,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 20.0,
       "Remarks": "",
-      "CurrentPlan": "大月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "b69610927a5a11ee8ed05254001e7c00",
@@ -1033,7 +1033,7 @@
       "SponsorshipCount": 11,
       "TotalMoney": 151.0,
       "Remarks": "CT8_202503",
-      "CurrentPlan": "小月卡"
+      "CurrentPlan": "自选Hime卡一张"
     },
     {
       "UserId": "cc54dfc2199711eeb5905254001e7c00",
@@ -1720,5 +1720,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2026-05-14 23:55:30"
+  "UpdateTime": "2026-05-15 00:48:09"
 }
