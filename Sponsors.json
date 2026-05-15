@@ -520,7 +520,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 60.0,
       "Remarks": "加油",
-      "CurrentPlan": "迷你月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "4ae7ce12c20211efa87652540025c377",
@@ -1720,5 +1720,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2026-05-15 23:49:04"
+  "UpdateTime": "2026-05-16 00:43:44"
 }
