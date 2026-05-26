@@ -25,7 +25,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 10.0,
       "Remarks": "",
-      "CurrentPlan": "小月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "d83580943f2811f1869e5254001e7c00",
@@ -1729,5 +1729,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2026-05-26 23:12:40"
+  "UpdateTime": "2026-05-27 01:14:16"
 }
