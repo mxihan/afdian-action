@@ -16,7 +16,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 10.0,
       "Remarks": "能不能传一下paro...",
-      "CurrentPlan": "自选方案"
+      "CurrentPlan": ""
     },
     {
       "UserId": "bca5c60ac74711eea21b52540025c377",
@@ -1729,5 +1729,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2026-05-28 23:18:59"
+  "UpdateTime": "2026-05-29 01:25:50"
 }
