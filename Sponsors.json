@@ -340,7 +340,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 30.0,
       "Remarks": "",
-      "CurrentPlan": "小月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "86c16e065cbd11f0a1a752540025c377",
@@ -349,7 +349,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 15.0,
       "Remarks": "",
-      "CurrentPlan": "迷你月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "c1cf72e01acc11f1b4d352540025c377",
@@ -385,7 +385,7 @@
       "SponsorshipCount": 1,
       "TotalMoney": 90.0,
       "Remarks": "",
-      "CurrentPlan": "至尊月卡"
+      "CurrentPlan": ""
     },
     {
       "UserId": "73efc2580e2c11eb988a52540025c377",
@@ -1729,5 +1729,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2026-06-08 22:30:00"
+  "UpdateTime": "2026-06-09 00:27:59"
 }
