@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "15929b56688d11f1813c52540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/?imageView2/1/w/120/h/120",
+      "Name": "爱发电用户_15929",
+      "SponsorshipCount": 1,
+      "TotalMoney": 88.0,
+      "Remarks": "两张都要dx gol...",
+      "CurrentPlan": "CardMaker卡片"
+    },
+    {
       "UserId": "e50920b463c211f1824052540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/user_upload_osl/94d90e1475ce2a5ef356239f410481ad_w100_h100_s5.jpeg?imageView2/1/w/120/h/120",
       "Name": "ilolcent LunAtithm",
@@ -39,11 +48,11 @@
     {
       "UserId": "d83580943f2811f1869e5254001e7c00",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-blue.png?imageView2/1/w/120/h/120",
-      "Name": "爱发电用户_bSjH",
-      "SponsorshipCount": 1,
-      "TotalMoney": 5.0,
+      "Name": "CCB",
+      "SponsorshipCount": 2,
+      "TotalMoney": 15.0,
       "Remarks": "谢谢你，中二太好玩了",
-      "CurrentPlan": ""
+      "CurrentPlan": "小月卡"
     },
     {
       "UserId": "9ffb454042ae11ec94de52540025c377",
@@ -1738,5 +1747,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2026-06-15 13:59:09"
+  "UpdateTime": "2026-06-15 19:16:05"
 }
