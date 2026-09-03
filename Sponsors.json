@@ -1,6 +1,15 @@
 ﻿{
   "SponsorsList": [
     {
+      "UserId": "9ed984dea7d411f1a33352540025c377",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/user_upload_osl/9474140f5a71a9616cb4e686471eadb5_w100_h100_s3.jpeg?imageView2/1/w/120/h/120",
+      "Name": "伊地知虹夏",
+      "SponsorshipCount": 1,
+      "TotalMoney": 360.0,
+      "Remarks": "狠狠支持",
+      "CurrentPlan": "至尊月卡"
+    },
+    {
       "UserId": "31ff27eea1f111f181435254001e7c00",
       "AvatarUrl": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/w/120/h/120",
       "Name": "爱发电用户_ubpC",
@@ -1774,5 +1783,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2026-09-04 02:28:55"
+  "UpdateTime": "2026-09-04 05:38:02"
 }
