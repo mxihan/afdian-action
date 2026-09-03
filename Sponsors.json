@@ -1552,10 +1552,10 @@
       "UserId": "40c04480f1da11ee877c52540025c377",
       "AvatarUrl": "https://pic1.afdiancdn.com/user/40c04480f1da11ee877c52540025c377/avatar/4c4efe5cc5863e904456fd8f77ed75bd_w446_h447_s37.jpeg?imageView2/1/w/120/h/120",
       "Name": "58",
-      "SponsorshipCount": 8,
-      "TotalMoney": 960.0,
+      "SponsorshipCount": 9,
+      "TotalMoney": 1080.0,
       "Remarks": "1111",
-      "CurrentPlan": ""
+      "CurrentPlan": "自选方案"
     },
     {
       "UserId": "e10adddaf25a11ee924052540025c377",
@@ -1774,5 +1774,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2026-09-03 22:21:08"
+  "UpdateTime": "2026-09-04 02:28:55"
 }
