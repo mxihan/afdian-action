@@ -911,8 +911,8 @@
     },
     {
       "UserId": "19e6706cf8de11ef989b52540025c377",
-      "AvatarUrl": "https://pic1.afdiancdn.com/user/19e6706cf8de11ef989b52540025c377/avatar/f4c4c0df1f15fc98b2115a027ce578f0_w1080_h1080_s103.jpeg?imageView2/1/w/120/h/120",
-      "Name": "下北沢案内人",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/19e6706cf8de11ef989b52540025c377/avatar/5d3d0a46c36b5f82fdb99933fe99eddc_w471_h470_s37.jpeg?imageView2/1/w/120/h/120",
+      "Name": "井盖",
       "SponsorshipCount": 2,
       "TotalMoney": 73.0,
       "Remarks": "",
@@ -1792,5 +1792,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2026-11-03 22:58:15"
+  "UpdateTime": "2026-11-04 04:54:14"
 }
