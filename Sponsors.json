@@ -830,8 +830,8 @@
     },
     {
       "UserId": "d41cb432ac7311ed9bda5254001e7c00",
-      "AvatarUrl": "https://pic1.afdiancdn.com/user/d41cb432ac7311ed9bda5254001e7c00/avatar/25fb8d701afec07055d4471f40ab5098_w732_h732_s120.jpeg?imageView2/1/w/120/h/120",
-      "Name": "KenYue",
+      "AvatarUrl": "https://pic1.afdiancdn.com/user/d41cb432ac7311ed9bda5254001e7c00/avatar/731ebdef697a66cc966de5519f9974ee_w1102_h1102_s459.png?imageView2/1/w/120/h/120",
+      "Name": "AnthonyForge",
       "SponsorshipCount": 1,
       "TotalMoney": 5.0,
       "Remarks": "",
@@ -1792,5 +1792,5 @@
       "CurrentPlan": ""
     }
   ],
-  "UpdateTime": "2026-11-07 17:52:51"
+  "UpdateTime": "2026-11-08 00:16:12"
 }
